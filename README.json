@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "如何参与本项目？"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "在线"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "实体书"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yasnippet：一个模板系统，支持 C 的通用代码片段。GNU GPL3",
+          "description": "或更高版本。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-06-04T20:22:16Z",
+            "owner": "joaotavora",
+            "repo": "yasnippet",
+            "stars": 2956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flycheck：现代语法检查。对于 C，它可以使用 GCC 或者 Clang 作为后端。GNU GPL3",
+          "description": "或更高版本。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-11T16:33:52Z",
+            "owner": "flycheck",
+            "repo": "flycheck",
+            "stars": 2533
+          }
+        }
+      ],
+      "title": "Emacs"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:56.688Z",
+    "original_repository": "jobbole/awesome-c-cn",
+    "original_repository_sha": "a1fb60e5a0095f8dcd80fc9fb76f695dbc39b0df",
+    "enhanced_repository": "enhansome/enhansome-c-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome C 语言资源大全中文版 with stars"
+  }
+}

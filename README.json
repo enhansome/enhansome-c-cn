@@ -1,58 +1,1364 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "如何参与本项目？"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "在线"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "实体书"
-    },
-    {
-      "description": "",
+      "description": "下面是一些 C 项目的自动化构建和测试工具。\n下面列出了基于 C API 的数据库和数据存储\n这些是特别精致，IDE 类型的编辑器。如果你想要一个程序员的文本编辑器，看别的地方。此外，不管你选择哪一款编辑器，它都支持 C。\n下面列出了被设计来引领 Windows 进入支持 C 的 21 世纪的技术。\n这一节包括提供数据结构的大型库和你所期待“现代”的标准库。\n这些作为 C 游戏编程代码的例子。\n这些是筛选过的，对游戏编程有用的库。\n这些具体来说就是控件工具包\n下面列出了学习 C 编程的资源，或者跟 C 编程相关的有用的东西。",
       "items": [
         {
           "node_type": "item",
-          "title": "Yasnippet：一个模板系统，支持 C 的通用代码片段。GNU GPL3",
-          "description": "或更高版本。官网",
+          "title": "libsodium：一个现代，易用的加密库。Expat",
+          "description": "。官网",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2025-06-04T20:22:16Z",
-            "owner": "joaotavora",
-            "repo": "yasnippet",
-            "stars": 2957
+            "id": 7710647,
+            "language": "C",
+            "last_commit": "2026-08-13T05:30:53Z",
+            "owner": "jedisct1",
+            "repo": "libsodium",
+            "stars": 13902
           }
         },
         {
           "node_type": "item",
-          "title": "Flycheck：现代语法检查。对于 C，它可以使用 GCC 或者 Clang 作为后端。GNU GPL3",
-          "description": "或更高版本。官网",
+          "title": "libtomcrypt：一个相当全面，模块化和可移植的工具集。公开领域。官网",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2026-08-18T13:40:45Z",
-            "owner": "flycheck",
-            "repo": "flycheck",
-            "stars": 2533
+            "id": 777011,
+            "language": "C",
+            "last_commit": "2026-08-08T15:05:13Z",
+            "owner": "libtom",
+            "repo": "libtomcrypt",
+            "stars": 1785
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiredis：一个极简的 Redis 客户端。3-clause BSD",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673267,
+            "language": "C",
+            "last_commit": "2026-08-14T12:44:30Z",
+            "owner": "redis",
+            "repo": "hiredis",
+            "stars": 6676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sophia：一个现代，可嵌入的键值对数据库。FreeBSD",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12843155,
+            "language": "C",
+            "last_commit": "2026-03-03T18:04:46Z",
+            "owner": "pmwkaa",
+            "repo": "sophia",
+            "stars": 1885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongo-c-driver：一个高性能的 MongoDB 客户端。Apache2.0",
+          "description": ".官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9735077,
+            "language": "C",
+            "last_commit": "2026-08-19T11:27:44Z",
+            "owner": "mongodb",
+            "repo": "mongo-c-driver",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stb：一系列单文件 C 库。公共领域。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20159867,
+            "language": "C",
+            "last_commit": "2026-08-02T06:42:09Z",
+            "owner": "nothings",
+            "repo": "stb",
+            "stars": 34439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C Algorithms：一个常用算法和数据结构的集合。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 736644,
+            "language": "C",
+            "last_commit": "2026-03-17T21:47:59Z",
+            "owner": "fragglet",
+            "repo": "c-algorithms",
+            "stars": 3608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qlibc：一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。qLib license",
+          "description": "(类似于 FreeBSD)。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17431133,
+            "language": "C",
+            "last_commit": "2026-08-11T15:31:56Z",
+            "owner": "wolkykim",
+            "repo": "qlibc",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libnih：一个轻量级的 C 函数和数据结构库。GNU GPL2.1",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10059099,
+            "language": "C",
+            "last_commit": "2021-11-20T02:02:46Z",
+            "owner": "keybuk",
+            "repo": "libnih",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quake2",
+          "description": "：Quake2 引擎。GNU GPL2.1。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3318174,
+            "language": "C",
+            "last_commit": "2023-12-05T19:48:59Z",
+            "owner": "id-Software",
+            "repo": "Quake-2",
+            "stars": 3323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ioquake3：Quake3 引擎，终于免费啦。GNU GPL2.1",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7390593,
+            "language": "C",
+            "last_commit": "2026-07-26T03:11:56Z",
+            "owner": "ioquake",
+            "repo": "ioq3",
+            "stars": 2800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corange",
+          "description": "：一个纯 C 的游戏引擎。FreeBSD。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1697403,
+            "language": "C",
+            "last_commit": "2024-06-03T11:56:44Z",
+            "owner": "orangeduck",
+            "repo": "Corange",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spearmint：一个为 FPS 游戏设计的引擎。GNU GPL3",
+          "description": "及更高版本。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7431427,
+            "language": "C",
+            "last_commit": "2026-05-25T08:41:02Z",
+            "owner": "clover-moe",
+            "repo": "spearmint",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroArch：libretro",
+          "description": "的参考前端。GNU GPL3。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 689344,
+            "language": "C",
+            "last_commit": "2026-08-19T10:41:06Z",
+            "owner": "libretro",
+            "repo": "RetroArch",
+            "stars": 13533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chipmunk2D：一个快且轻量级的 2D 游戏物理库。Expat",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2033079,
+            "language": "C",
+            "last_commit": "2026-05-05T18:45:27Z",
+            "owner": "slembcke",
+            "repo": "Chipmunk2D",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeGLUT：一个替代性的 OpenGL 实用工具包。允许用 OpenGL 上下文创建和管理窗口。X11",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9591436,
+            "language": "C",
+            "last_commit": "2026-08-17T18:37:12Z",
+            "owner": "freeglut",
+            "repo": "freeglut",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libao：一个有多种输出的跨平台音频库。GNU GPL2.1",
+          "description": "及更高版本。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10818050,
+            "language": "C",
+            "last_commit": "2013-06-23T12:30:41Z",
+            "owner": "timonwong",
+            "repo": "libao",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Craft",
+          "description": "：一个利用OpenGL使用C编写的简单MineCraft的克隆。官网、GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9330072,
+            "language": "C",
+            "last_commit": "2024-04-03T15:49:34Z",
+            "owner": "fogleman",
+            "repo": "Craft",
+            "stars": 11091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mozjpeg：一个提升 JPEG 图像质量的编码器。3-clause BSD",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15837676,
+            "language": "C",
+            "last_commit": "2025-06-23T17:05:27Z",
+            "owner": "mozilla",
+            "repo": "mozjpeg",
+            "stars": 5715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcaca：一个基于终端接口的 ASCII 渲染器。WTFPLv2",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29090568,
+            "language": "C",
+            "last_commit": "2026-08-14T16:01:19Z",
+            "owner": "cacalabs",
+            "repo": "libcaca",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heman：一个迷你图像实用工具库，处理高度图，法线图，距离场等。Expat",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40453735,
+            "language": "C",
+            "last_commit": "2021-04-27T22:43:51Z",
+            "owner": "prideout",
+            "repo": "heman",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cogl：一个 GPU 图像和实用 API。Expat",
+          "description": "（依赖使用 3-clause BSD 许可，库使用 LGPLv2.1 许可）。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5426521,
+            "language": "CSS",
+            "last_commit": "2015-09-04T18:31:32Z",
+            "owner": "rib",
+            "repo": "cogl-web",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-c：一个处理 JSON 的库。Expat",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1139119,
+            "language": "C",
+            "last_commit": "2026-08-17T05:16:31Z",
+            "owner": "json-c",
+            "repo": "json-c",
+            "stars": 3287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WJElement：高级 JSON 处理库，支持 JSON Schema。任意版本的 LGPL。官网",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5454532,
+            "language": "C",
+            "last_commit": "2026-03-23T16:29:32Z",
+            "owner": "netmail-open",
+            "repo": "wjelement",
+            "stars": 111
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "mongoose",
+                  "description": "：基于 C 的嵌入式 Web 服务器。GNU GPL2.1。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5414488,
+                    "language": "C",
+                    "last_commit": "2026-08-19T08:48:52Z",
+                    "owner": "cesanta",
+                    "repo": "mongoose",
+                    "stars": 13002
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tox：一个通信平台，被设计为 Skype 杀手。GNU GPL3",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10894716,
+                    "language": "C",
+                    "last_commit": "2024-07-13T23:51:00Z",
+                    "owner": "irungentoo",
+                    "repo": "toxcore",
+                    "stars": 8748
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "libhv：一个比libevent、libuv更易用的国产网络库，可用来开发 TCP/UDP/SSL/HTTP/WebSocket 客户端/服务端。3-clause BSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 146397768,
+                    "language": "C",
+                    "last_commit": "2026-08-17T11:55:18Z",
+                    "owner": "ithewei",
+                    "repo": "libhv",
+                    "stars": 7537
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "http-parser：一个 HTTP 请求回应解析器。Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 186749,
+                    "language": "C",
+                    "last_commit": "2022-06-19T08:11:39Z",
+                    "owner": "nodejs",
+                    "repo": "http-parser",
+                    "stars": 6446
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nanomsg：一个基于 C 的 ZeroMQ 实现。Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6154315,
+                    "language": "C",
+                    "last_commit": "2026-08-02T21:30:47Z",
+                    "owner": "nanomsg",
+                    "repo": "nanomsg",
+                    "stars": 6292
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lwan：一个实验性，可扩展，高性能的 HTTP 服务器。 GNU GPL2.1",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3287591,
+                    "language": "C",
+                    "last_commit": "2026-08-18T15:44:40Z",
+                    "owner": "lpereira",
+                    "repo": "lwan",
+                    "stars": 6035
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gumbo-parser：一个 C99 标准的 HTML5 解析库。Apache2.0",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 11850014,
+                    "language": "HTML",
+                    "last_commit": "2026-01-21T17:17:17Z",
+                    "owner": "google",
+                    "repo": "gumbo-parser",
+                    "stars": 5193
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "s2n：一个 C99 标准的 TLS/SSL 协议的实现，简单，快并且以安全优先。Apache2.0",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21287076,
+                    "language": "C",
+                    "last_commit": "2026-08-19T00:08:28Z",
+                    "owner": "aws",
+                    "repo": "s2n-tls",
+                    "stars": 4752
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "onion：易于使用的 HTTP 服务器库。Apache2.0",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 961335,
+                    "language": "C",
+                    "last_commit": "2022-10-17T18:56:32Z",
+                    "owner": "davidmoreno",
+                    "repo": "onion",
+                    "stars": 2088
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "czmq：一个 ZeroMQ 的高级绑定。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1510809,
+                    "language": "C",
+                    "last_commit": "2026-04-15T09:47:48Z",
+                    "owner": "zeromq",
+                    "repo": "czmq",
+                    "stars": 1271
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LibEtPan：一个邮件库，支持 IMAP，SMTP，POP 和 NNTP 网络协议。3-clause BSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2061133,
+                    "language": "C",
+                    "last_commit": "2026-08-19T05:51:11Z",
+                    "owner": "dinhvh",
+                    "repo": "libetpan",
+                    "stars": 628
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "socket99：BSD 套接字 API 的 C99 封装。ISC",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22264109,
+                    "language": "C",
+                    "last_commit": "2017-05-04T17:47:07Z",
+                    "owner": "silentbicycle",
+                    "repo": "socket99",
+                    "stars": 145
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "twitc：一个与 Twitter OAuth API 交互的迷你 C 库。Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28492762,
+                    "language": "C",
+                    "last_commit": "2020-10-06T10:52:29Z",
+                    "owner": "sinemetu1",
+                    "repo": "twitc",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ck：并发原语，安全内存回收机制和非阻塞数据结构。FreeBSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18887187,
+                    "language": "C",
+                    "last_commit": "2026-08-10T20:03:51Z",
+                    "owner": "concurrencykit",
+                    "repo": "ck",
+                    "stars": 2689
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenMPI：一个消息传输接口实现。3-clause BSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24107001,
+                    "language": "C",
+                    "last_commit": "2026-08-18T20:41:36Z",
+                    "owner": "open-mpi",
+                    "repo": "ompi",
+                    "stars": 2633
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TRE：一个与 POSIX 一致，充满特色的正则表达式库。FreeBSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5889454,
+                    "language": "C",
+                    "last_commit": "2026-05-23T15:33:19Z",
+                    "owner": "laurikari",
+                    "repo": "tre",
+                    "stars": 916
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SLRE：Super Light Regular Expression library;一个 Perl 正则表达式语法子集的迷你实现。GNU GPL2.1",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11735319,
+                    "language": "C",
+                    "last_commit": "2020-10-26T15:25:50Z",
+                    "owner": "cesanta",
+                    "repo": "slre",
+                    "stars": 558
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "protobuf-c：一个 Google Protocol Buffer 的 C 实现。FreeBSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440211,
+                    "language": "C++",
+                    "last_commit": "2025-04-07T01:18:13Z",
+                    "owner": "protobuf-c",
+                    "repo": "protobuf-c",
+                    "stars": 2985
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mpack：另一个 MessagePack",
+                  "description": "序列化协议的实现。Expat。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31540903,
+                    "language": "C",
+                    "last_commit": "2026-08-08T02:10:38Z",
+                    "owner": "ludocode",
+                    "repo": "mpack",
+                    "stars": 632
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cmp：一个 MessagePack",
+                  "description": "序列化协议的实现。 Expat。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19158670,
+                    "language": "C",
+                    "last_commit": "2025-08-06T13:21:30Z",
+                    "owner": "camgunz",
+                    "repo": "cmp",
+                    "stars": 368
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "c-capnproto：一个 Cap'n Proto 序列化协议的实现。 Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 12792461,
+                    "language": "C++",
+                    "last_commit": "2023-04-23T12:35:37Z",
+                    "owner": "jmckaskill",
+                    "repo": "c-capnproto",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SDS：Simple Dynamic Strings；一个用简单方式处理 C 字符串的库，而且兼容标准 C 字符串函数。可通过 clib",
+                  "description": "使用。FreeBSD。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6425435,
+                    "language": "C",
+                    "last_commit": "2026-07-18T01:44:01Z",
+                    "owner": "clibs",
+                    "repo": "clib",
+                    "stars": 5141
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "shoco：一个小型文本压缩器。Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18843548,
+                    "language": "C",
+                    "last_commit": "2026-02-16T12:24:33Z",
+                    "owner": "Ed-von-Schleck",
+                    "repo": "shoco",
+                    "stars": 390
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "smaz：一个高效的字符串压缩库。3-clause BSD",
+                  "description": ".官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18843548,
+                    "language": "C",
+                    "last_commit": "2026-02-16T12:24:33Z",
+                    "owner": "Ed-von-Schleck",
+                    "repo": "shoco",
+                    "stars": 390
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unity：一个简单的 C 单元测试框架。 Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3276860,
+                    "language": "C",
+                    "last_commit": "2026-07-21T15:26:22Z",
+                    "owner": "ThrowTheSwitch",
+                    "repo": "Unity",
+                    "stars": 5346
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Criterion：一个 KISS 风格，非侵入式的 C 测试框架。Expat",
+                  "description": "官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30111969,
+                    "language": "C",
+                    "last_commit": "2026-07-17T20:50:46Z",
+                    "owner": "Snaipe",
+                    "repo": "Criterion",
+                    "stars": 2292
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CMock：一个 C 的 mock/stub 生成器。官网",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3276848,
+                    "language": "C",
+                    "last_commit": "2026-07-20T21:34:24Z",
+                    "owner": "ThrowTheSwitch",
+                    "repo": "CMock",
+                    "stars": 833
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "minunit：极小的 C 单元测试框架。Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4783321,
+                    "language": "C",
+                    "last_commit": "2023-10-27T06:25:41Z",
+                    "owner": "siu",
+                    "repo": "minunit",
+                    "stars": 642
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CHEAT：一个非常简单的单元测试框架。FreeBSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13017468,
+                    "language": "C",
+                    "last_commit": "2021-01-25T22:22:41Z",
+                    "owner": "Tuplanolla",
+                    "repo": "cheat",
+                    "stars": 170
+                  }
+                }
+              ],
+              "description": "有些人遇到问题时就会想：“啊，我知道了，我可以使用正则表达式”。于是现在他们有了两个问题。- Jamie Zawinski。\n下面包含了一些小型源码集合。如果你想要大型且成熟的，看《框架》那一节。\n下面包括了标准 C 库。\n在几乎任何像样的文本编辑器支持 C 之际，有一些扩展，让编辑器更加令人愉快。下面是根据编辑器分目录的。",
+              "node_type": "group",
+              "title": "高级"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "实体书"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yasnippet：一个模板系统，支持 C 的通用代码片段。GNU GPL3",
+              "description": "或更高版本。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2537904,
+                "language": "Emacs Lisp",
+                "last_commit": "2025-06-04T20:22:16Z",
+                "owner": "joaotavora",
+                "repo": "yasnippet",
+                "stars": 2957
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flycheck：现代语法检查。对于 C，它可以使用 GCC 或者 Clang 作为后端。GNU GPL3",
+              "description": "或更高版本。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6158882,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-19T06:37:04Z",
+                "owner": "flycheck",
+                "repo": "flycheck",
+                "stars": 2533
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdecl：一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6201092,
+                "language": "C",
+                "last_commit": "2026-08-17T17:57:13Z",
+                "owner": "mpv-player",
+                "repo": "mpv",
+                "stars": 36589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "address-sanitizer：一个很快的内存错误探测器。Apache2.0",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23641816,
+                "language": "C",
+                "last_commit": "2026-05-19T16:35:54Z",
+                "owner": "google",
+                "repo": "sanitizers",
+                "stars": 12449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "include-what-you-use：帮助程序员发现不必要的包含和提供解决他们的建议。基于 LLVM/Clang（只能与它一起工作）。NCSA",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37440338,
+                "language": "C++",
+                "last_commit": "2026-08-16T20:30:56Z",
+                "owner": "include-what-you-use",
+                "repo": "include-what-you-use",
+                "stars": 4753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "c：在命令行中编译和执行 C 脚本，也支持 shebang。 Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31526549,
+                "language": "Shell",
+                "last_commit": "2025-12-05T02:58:15Z",
+                "owner": "ryanmjacobs",
+                "repo": "c",
+                "stars": 2182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qo：无需分开的配置文件的构建系统。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24470101,
+                "language": "Go",
+                "last_commit": "2015-11-25T15:43:36Z",
+                "owner": "andlabs",
+                "repo": "qo",
+                "stars": 303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "c99sh：用 hash-bang 运行 C 文件。FreeBSD",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15564561,
+                "language": "Shell",
+                "last_commit": "2026-01-13T01:22:38Z",
+                "owner": "RhysU",
+                "repo": "c99sh",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libmpv：音乐播放库。编译的时候加入 来避免生成音乐播放器。GNU GPL2.1",
+              "description": "或更高版本。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6201092,
+                "language": "C",
+                "last_commit": "2026-08-17T17:57:13Z",
+                "owner": "mpv-player",
+                "repo": "mpv",
+                "stars": 36589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libuv：跨平台异步 I/O。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14812739,
+                "language": "C",
+                "last_commit": "2026-08-17T18:53:01Z",
+                "owner": "libuv",
+                "repo": "libuv",
+                "stars": 27120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libgit2：Git 的纯 C 实现。GNU GPL2 only, with a linking exception",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 901662,
+                "language": "C",
+                "last_commit": "2026-08-15T12:37:11Z",
+                "owner": "libgit2",
+                "repo": "libgit2",
+                "stars": 10562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gperftools：一系列测量和提高性能的实用工具集合。3-clause BSD",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16309670,
+                "language": "C++",
+                "last_commit": "2026-07-25T16:16:01Z",
+                "owner": "gperftools",
+                "repo": "gperftools",
+                "stars": 8976
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libimobiledevice：一个跨平台协议库，用于与 iThings 通信。GNU LGPLv2.1",
+              "description": "或更高版本（库），GNU GPL2.1 或更高版本（工具）。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8180677,
+                "language": "C",
+                "last_commit": "2026-06-10T07:52:18Z",
+                "owner": "libimobiledevice",
+                "repo": "libimobiledevice",
+                "stars": 8116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ccv",
+              "description": "：基于C语言、带缓存机制的现代计算机视觉核心库。 3-clause BSD。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 912896,
+                "language": "C++",
+                "last_commit": "2026-08-18T04:46:57Z",
+                "owner": "liuliu",
+                "repo": "ccv",
+                "stars": 7242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zlib：一个相当漂亮却精致不张扬的压缩库。3-clause BSD",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2359378,
+                "language": "C",
+                "last_commit": "2026-06-01T09:13:57Z",
+                "owner": "madler",
+                "repo": "zlib",
+                "stars": 7028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CommonMark：CommonMark 规范的 C 实现。Variety of licenses, all free",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22942790,
+                "language": "Python",
+                "last_commit": "2026-04-27T19:15:35Z",
+                "owner": "commonmark",
+                "repo": "commonmark-spec",
+                "stars": 5132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mpc：解析器组合库。FreeBSD",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13122868,
+                "language": "C",
+                "last_commit": "2025-08-10T23:14:43Z",
+                "owner": "orangeduck",
+                "repo": "mpc",
+                "stars": 2849
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libsoundio：跨平台，实时音频输入输出的库，有很多种后端。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38333501,
+                "language": "C",
+                "last_commit": "2025-01-13T00:38:33Z",
+                "owner": "andrewrk",
+                "repo": "libsoundio",
+                "stars": 2100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sundown",
+              "description": "：一个用C编写的符合标准的、快速的、安全的源码解析器。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1618114,
+                "language": "C",
+                "last_commit": "2018-07-23T10:50:07Z",
+                "owner": "vmg",
+                "repo": "sundown",
+                "stars": 2017
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libnfc：一个平台独立的 NFC 库。GNU LGPL3",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33354099,
+                "language": "C",
+                "last_commit": "2025-03-05T13:47:26Z",
+                "owner": "nfc-tools",
+                "repo": "libnfc",
+                "stars": 1984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rabbitmq-c：RabbitMQ",
+              "description": "的客户端库。Expat。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1855590,
+                "language": "C",
+                "last_commit": "2026-08-09T20:16:13Z",
+                "owner": "alanxz",
+                "repo": "rabbitmq-c",
+                "stars": 1864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libucl：通用配置库解析器。FreeBSD",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13486798,
+                "language": "C",
+                "last_commit": "2026-08-16T21:04:22Z",
+                "owner": "vstakhov",
+                "repo": "libucl",
+                "stars": 1742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libPhenom",
+              "description": "：事件框架，用于构建高扩展和高性能系统。Apache2.0。官网、GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 7083261,
+                "language": "C",
+                "last_commit": "2019-03-08T18:48:08Z",
+                "owner": "facebookarchive",
+                "repo": "libphenom",
+                "stars": 1663
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pbc：一个协议缓冲库。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2869484,
+                "language": "C",
+                "last_commit": "2022-11-03T03:00:02Z",
+                "owner": "cloudwu",
+                "repo": "pbc",
+                "stars": 1622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iniparser：一个 .ini 文件的解析器。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851288,
+                "language": "C",
+                "last_commit": "2026-07-19T21:22:49Z",
+                "owner": "ndevilla",
+                "repo": "iniparser",
+                "stars": 1070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nope.c：一个基于 C 语言，超级轻量级的软件平台，用于可扩展服务端和网络应用的开发（想想 C 程序员的 nodejs）。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21638579,
+                "language": "C",
+                "last_commit": "2017-12-07T22:32:39Z",
+                "owner": "riolet",
+                "repo": "WAFer",
+                "stars": 697
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kdtree：KD-trees 的简单库。3-clause BSD",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32119260,
+                "language": "C",
+                "last_commit": "2021-08-07T15:57:28Z",
+                "owner": "jtsiomb",
+                "repo": "kdtree",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CException：异常的 C 实现。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3276873,
+                "language": "C",
+                "last_commit": "2026-07-08T20:43:38Z",
+                "owner": "ThrowTheSwitch",
+                "repo": "CException",
+                "stars": 365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libbson：BSON 实用库。Apache2.0",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 8978081,
+                "language": "C",
+                "last_commit": "2020-10-10T09:38:11Z",
+                "owner": "mongodb",
+                "repo": "libbson",
+                "stars": 346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docopt.c：命令行选项解析器的 C 实现。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4768243,
+                "language": "Python",
+                "last_commit": "2024-05-14T15:06:47Z",
+                "owner": "docopt",
+                "repo": "docopt.c",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hammer：二进制格式的解析器组合。GPL2.1",
+              "description": ".官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4107759,
+                "language": "C",
+                "last_commit": "2020-10-06T11:01:23Z",
+                "owner": "abiggerhammer",
+                "repo": "hammer",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jwHash：一个很快的哈希表实现。Apache2.0",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35009331,
+                "language": "C",
+                "last_commit": "2020-09-30T01:34:54Z",
+                "owner": "watmough",
+                "repo": "jwHash",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huffandpuff：一个极小的哈夫曼编码器和解码器。公共领域。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10533025,
+                "language": "C",
+                "last_commit": "2013-06-14T18:40:40Z",
+                "owner": "adamierymenko",
+                "repo": "huffandpuff",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ApeTagLibs：APEv2 标签的 C 库。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7611,
+                "language": "C",
+                "last_commit": "2026-05-25T17:08:36Z",
+                "owner": "jeremyevans",
+                "repo": "ape_tag_libs",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libffi：轻量级的外部函数接口库。Expat",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 995298880,
+                "language": "C",
+                "last_commit": "2026-03-12T10:51:45Z",
+                "owner": "atgreen",
+                "repo": "libffi",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "下面是实用的程序列表，包括了帮助你编写和调试 C 代码的库或者编译器，不包括编辑器。\n下面是包罗万象的目录，主要是那些不适合放在其他目录的东西。\n“XML 是垃圾。真的，没有任何借口。XML 对人类不友好的，甚至对于电脑来说也是一场灾难。根官网 -Linus Torvalds",
+          "node_type": "group",
+          "title": "Vim"
         }
       ],
-      "title": "Emacs"
+      "title": "目录"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:41:23.423Z",
+    "last_updated": "2026-08-19T12:19:02.003Z",
     "original_repository": "jobbole/awesome-c-cn",
+    "original_repository_id": 45458777,
     "original_repository_sha": "a1fb60e5a0095f8dcd80fc9fb76f695dbc39b0df",
     "enhanced_repository": "enhansome/enhansome-c-cn",
     "enhanced_repository_description": null,

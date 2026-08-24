@@ -5,6 +5,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "CompCert：一个经过充分验证的 C 编译器。支持几乎所有的 C89 标准。GNU GPL2.1",
+          "description": "或更高版本。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24187206,
+            "language": "Rocq Prover",
+            "last_commit": "2026-08-23T15:20:27Z",
+            "owner": "AbsInt",
+            "repo": "CompCert",
+            "stars": 2215
+          }
+        },
+        {
+          "node_type": "item",
           "title": "libsodium：一个现代，易用的加密库。Expat",
           "description": "。官网",
           "children": [],
@@ -90,7 +105,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34480
+            "stars": 34492
           }
         },
         {
@@ -165,7 +180,7 @@
             "last_commit": "2026-07-26T03:11:56Z",
             "owner": "ioquake",
             "repo": "ioq3",
-            "stars": 2802
+            "stars": 2803
           }
         },
         {
@@ -207,10 +222,10 @@
             "archived": false,
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-23T08:48:19Z",
+            "last_commit": "2026-08-24T02:11:33Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13561
+            "stars": 13563
           }
         },
         {
@@ -260,6 +275,21 @@
         },
         {
           "node_type": "item",
+          "title": "klib：小且轻量级的常用算法和数据结构实现。Expat",
+          "description": "。官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251393,
+            "language": "C",
+            "last_commit": "2025-12-22T04:59:43Z",
+            "owner": "attractivechaos",
+            "repo": "klib",
+            "stars": 4717
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Craft",
           "description": "：一个利用OpenGL使用C编写的简单MineCraft的克隆。官网、GitHub",
           "children": [],
@@ -270,7 +300,7 @@
             "last_commit": "2024-04-03T15:49:34Z",
             "owner": "fogleman",
             "repo": "Craft",
-            "stars": 11091
+            "stars": 11094
           }
         },
         {
@@ -376,10 +406,10 @@
                     "archived": false,
                     "id": 5414488,
                     "language": "C",
-                    "last_commit": "2026-08-23T11:54:18Z",
+                    "last_commit": "2026-08-24T07:53:30Z",
                     "owner": "cesanta",
                     "repo": "mongoose",
-                    "stars": 13006
+                    "stars": 13007
                   }
                 },
                 {
@@ -394,7 +424,7 @@
                     "last_commit": "2024-07-13T23:51:00Z",
                     "owner": "irungentoo",
                     "repo": "toxcore",
-                    "stars": 8749
+                    "stars": 8748
                   }
                 },
                 {
@@ -406,10 +436,10 @@
                     "archived": false,
                     "id": 146397768,
                     "language": "C",
-                    "last_commit": "2026-08-21T09:11:32Z",
+                    "last_commit": "2026-08-24T05:20:20Z",
                     "owner": "ithewei",
                     "repo": "libhv",
-                    "stars": 7536
+                    "stars": 7537
                   }
                 },
                 {
@@ -424,7 +454,7 @@
                     "last_commit": "2022-06-19T08:11:39Z",
                     "owner": "nodejs",
                     "repo": "http-parser",
-                    "stars": 6445
+                    "stars": 6446
                   }
                 },
                 {
@@ -451,7 +481,7 @@
                     "archived": false,
                     "id": 3287591,
                     "language": "C",
-                    "last_commit": "2026-08-23T15:42:08Z",
+                    "last_commit": "2026-08-24T13:25:49Z",
                     "owner": "lpereira",
                     "repo": "lwan",
                     "stars": 6034
@@ -481,7 +511,7 @@
                     "archived": false,
                     "id": 21287076,
                     "language": "C",
-                    "last_commit": "2026-08-21T21:37:22Z",
+                    "last_commit": "2026-08-24T00:08:53Z",
                     "owner": "aws",
                     "repo": "s2n-tls",
                     "stars": 4755
@@ -499,7 +529,7 @@
                     "last_commit": "2022-10-17T18:56:32Z",
                     "owner": "davidmoreno",
                     "repo": "onion",
-                    "stars": 2089
+                    "stars": 2090
                   }
                 },
                 {
@@ -564,6 +594,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "balde：一个基于 GLib 的 C 微框架。 GNU LGPLv2.1",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14959533,
+                    "language": "C",
+                    "last_commit": "2025-02-23T15:41:04Z",
+                    "owner": "balde",
+                    "repo": "balde",
+                    "stars": 726
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "apophenia：一个用于统计和科学计算的库。GNU GPL2.1",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2601917,
+                    "language": "C",
+                    "last_commit": "2025-01-22T01:05:18Z",
+                    "owner": "b-k",
+                    "repo": "apophenia",
+                    "stars": 209
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "ck：并发原语，安全内存回收机制和非阻塞数据结构。FreeBSD",
                   "description": "。官网",
                   "children": [],
@@ -589,7 +649,7 @@
                     "last_commit": "2026-08-22T20:54:28Z",
                     "owner": "open-mpi",
                     "repo": "ompi",
-                    "stars": 2634
+                    "stars": 2633
                   }
                 },
                 {
@@ -634,7 +694,7 @@
                     "last_commit": "2026-08-22T20:33:30Z",
                     "owner": "protobuf-c",
                     "repo": "protobuf-c",
-                    "stars": 2986
+                    "stars": 2987
                   }
                 },
                 {
@@ -680,6 +740,36 @@
                     "owner": "jmckaskill",
                     "repo": "c-capnproto",
                     "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "clib：一个 C 软件包管理器，配备了一堆自己的库。 Expat",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6425435,
+                    "language": "C",
+                    "last_commit": "2026-07-18T01:44:01Z",
+                    "owner": "clibs",
+                    "repo": "clib",
+                    "stars": 5141
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bionic：谷歌为 Android 开发的 C 标准库。3-clause BSD",
+                  "description": "。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 65830,
+                    "language": "Assembly",
+                    "last_commit": "2025-11-11T23:04:49Z",
+                    "owner": "aosp-mirror",
+                    "repo": "platform_bionic",
+                    "stars": 624
                   }
                 },
                 {
@@ -754,7 +844,7 @@
                     "last_commit": "2026-07-17T20:50:46Z",
                     "owner": "Snaipe",
                     "repo": "Criterion",
-                    "stars": 2293
+                    "stars": 2295
                   }
                 },
                 {
@@ -769,7 +859,7 @@
                     "last_commit": "2026-07-20T21:34:24Z",
                     "owner": "ThrowTheSwitch",
                     "repo": "CMock",
-                    "stars": 834
+                    "stars": 835
                   }
                 },
                 {
@@ -838,7 +928,7 @@
                 "archived": false,
                 "id": 6158882,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-22T17:16:32Z",
+                "last_commit": "2026-08-24T11:06:41Z",
                 "owner": "flycheck",
                 "repo": "flycheck",
                 "stars": 2534
@@ -853,6 +943,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Syntastic：语法检查和语言分析。Do What The Fuck You Want To license",
+              "description": "。官网",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248523,
+                "language": "Vim script",
+                "last_commit": "2022-07-10T12:58:50Z",
+                "owner": "vim-syntastic",
+                "repo": "syntastic",
+                "stars": 11217
+              }
+            },
+            {
+              "node_type": "item",
               "title": "cdecl：一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。官网",
               "description": null,
               "children": [],
@@ -863,7 +968,7 @@
                 "last_commit": "2026-08-23T16:09:02Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36643
+                "stars": 36658
               }
             },
             {
@@ -878,7 +983,7 @@
                 "last_commit": "2026-05-19T16:35:54Z",
                 "owner": "google",
                 "repo": "sanitizers",
-                "stars": 12451
+                "stars": 12453
               }
             },
             {
@@ -893,7 +998,7 @@
                 "last_commit": "2026-08-22T17:36:48Z",
                 "owner": "include-what-you-use",
                 "repo": "include-what-you-use",
-                "stars": 4753
+                "stars": 4754
               }
             },
             {
@@ -953,7 +1058,7 @@
                 "last_commit": "2026-08-23T16:09:02Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36643
+                "stars": 36658
               }
             },
             {
@@ -983,7 +1088,7 @@
                 "last_commit": "2026-08-15T12:37:11Z",
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10568
+                "stars": 10569
               }
             },
             {
@@ -1013,7 +1118,7 @@
                 "last_commit": "2026-06-10T07:52:18Z",
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8125
+                "stars": 8126
               }
             },
             {
@@ -1025,7 +1130,7 @@
                 "archived": false,
                 "id": 912896,
                 "language": "C++",
-                "last_commit": "2026-08-22T18:47:08Z",
+                "last_commit": "2026-08-24T05:19:05Z",
                 "owner": "liuliu",
                 "repo": "ccv",
                 "stars": 7242
@@ -1043,7 +1148,7 @@
                 "last_commit": "2026-06-01T09:13:57Z",
                 "owner": "madler",
                 "repo": "zlib",
-                "stars": 7042
+                "stars": 7045
               }
             },
             {
@@ -1130,7 +1235,7 @@
                 "archived": false,
                 "id": 1855590,
                 "language": "C",
-                "last_commit": "2026-08-09T20:16:13Z",
+                "last_commit": "2026-08-24T01:28:39Z",
                 "owner": "alanxz",
                 "repo": "rabbitmq-c",
                 "stars": 1864
@@ -1148,7 +1253,7 @@
                 "last_commit": "2026-08-16T21:04:22Z",
                 "owner": "vstakhov",
                 "repo": "libucl",
-                "stars": 1742
+                "stars": 1743
               }
             },
             {
@@ -1356,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:33:09.596Z",
+    "last_updated": "2026-08-24T13:54:09.541Z",
     "original_repository": "jobbole/awesome-c-cn",
     "original_repository_id": 45458777,
     "original_repository_sha": "a1fb60e5a0095f8dcd80fc9fb76f695dbc39b0df",

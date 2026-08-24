@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T05:30:53Z",
             "owner": "jedisct1",
             "repo": "libsodium",
-            "stars": 13911
+            "stars": 13912
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34492
+            "stars": 34493
           }
         },
         {
@@ -481,7 +481,7 @@
                     "archived": false,
                     "id": 3287591,
                     "language": "C",
-                    "last_commit": "2026-08-24T13:25:49Z",
+                    "last_commit": "2026-08-24T16:16:06Z",
                     "owner": "lpereira",
                     "repo": "lwan",
                     "stars": 6034
@@ -511,7 +511,7 @@
                     "archived": false,
                     "id": 21287076,
                     "language": "C",
-                    "last_commit": "2026-08-24T00:08:53Z",
+                    "last_commit": "2026-08-24T17:35:13Z",
                     "owner": "aws",
                     "repo": "s2n-tls",
                     "stars": 4755
@@ -646,7 +646,7 @@
                     "archived": false,
                     "id": 24107001,
                     "language": "C",
-                    "last_commit": "2026-08-22T20:54:28Z",
+                    "last_commit": "2026-08-24T17:42:53Z",
                     "owner": "open-mpi",
                     "repo": "ompi",
                     "stars": 2633
@@ -928,7 +928,7 @@
                 "archived": false,
                 "id": 6158882,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-24T11:06:41Z",
+                "last_commit": "2026-08-24T15:34:37Z",
                 "owner": "flycheck",
                 "repo": "flycheck",
                 "stars": 2534
@@ -968,7 +968,7 @@
                 "last_commit": "2026-08-23T16:09:02Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36658
+                "stars": 36664
               }
             },
             {
@@ -1058,7 +1058,7 @@
                 "last_commit": "2026-08-23T16:09:02Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36658
+                "stars": 36664
               }
             },
             {
@@ -1088,7 +1088,7 @@
                 "last_commit": "2026-08-15T12:37:11Z",
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10569
+                "stars": 10570
               }
             },
             {
@@ -1238,7 +1238,7 @@
                 "last_commit": "2026-08-24T01:28:39Z",
                 "owner": "alanxz",
                 "repo": "rabbitmq-c",
-                "stars": 1864
+                "stars": 1863
               }
             },
             {
@@ -1461,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:54:09.541Z",
+    "last_updated": "2026-08-24T17:46:18.887Z",
     "original_repository": "jobbole/awesome-c-cn",
     "original_repository_id": 45458777,
     "original_repository_sha": "a1fb60e5a0095f8dcd80fc9fb76f695dbc39b0df",

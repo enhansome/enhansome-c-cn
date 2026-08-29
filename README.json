@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CompCert formally-verified C compiler",
+            "homepage": "https://compcert.org",
             "id": 24187206,
             "language": "Rocq Prover",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:26:17Z",
+            "open_issues": 40,
             "owner": "AbsInt",
             "repo": "CompCert",
-            "stars": 2218
+            "stars": 2218,
+            "topics": [
+              "c",
+              "compcert",
+              "compiler",
+              "coq"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -26,12 +36,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, portable, easy to use crypto library.",
+            "homepage": "https://libsodium.org",
             "id": 7710647,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:18:58Z",
+            "open_issues": 1,
             "owner": "jedisct1",
             "repo": "libsodium",
-            "stars": 13919
+            "stars": 13919,
+            "topics": [
+              "c",
+              "crypto",
+              "cryptography",
+              "zig-package"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.",
+            "homepage": "https://www.libtom.net",
             "id": 777011,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T15:05:13Z",
+            "open_issues": 53,
             "owner": "libtom",
             "repo": "libtomcrypt",
-            "stars": 1788
+            "stars": 1788,
+            "topics": [
+              "c",
+              "cryptography",
+              "encryption",
+              "libtomcrypt"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic C client for Redis >= 1.2",
+            "homepage": null,
             "id": 673267,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-20T11:17:49Z",
+            "open_issues": 82,
             "owner": "redis",
             "repo": "hiredis",
-            "stars": 6680
+            "stars": 6680,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern transactional key-value/row storage library.",
+            "homepage": null,
             "id": 12843155,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-03T18:04:46Z",
+            "open_issues": 56,
             "owner": "pmwkaa",
             "repo": "sophia",
-            "stars": 1886
+            "stars": 1886,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -90,12 +130,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Official MongoDB driver for C language",
+            "homepage": "https://www.mongodb.com/docs/drivers/c/",
             "id": 9735077,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:03:55Z",
+            "open_issues": 5,
             "owner": "mongodb",
             "repo": "mongo-c-driver",
-            "stars": 880
+            "stars": 880,
+            "topics": [
+              "c",
+              "mongodb",
+              "mongodb-driver",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -106,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "stb single-file public domain libraries for C/C++",
+            "homepage": "https://nothings.org",
             "id": 20159867,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T06:42:09Z",
+            "open_issues": 417,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34526
+            "stars": 34528,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -122,12 +177,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of common data structures and algorithms written in C.",
+            "homepage": "https://fragglet.github.io/c-algorithms/",
             "id": 736644,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-17T21:47:59Z",
+            "open_issues": 10,
             "owner": "fragglet",
             "repo": "c-algorithms",
-            "stars": 3610
+            "stars": 3610,
+            "topics": [
+              "algorithm",
+              "c",
+              "data-structures",
+              "isc",
+              "library"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -138,12 +204,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "qLibc is a simple and yet powerful C library providing generic data structures and algorithms.",
+            "homepage": "http://wolkykim.github.io/qlibc",
             "id": 17431133,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T15:31:56Z",
+            "open_issues": 0,
             "owner": "wolkykim",
             "repo": "qlibc",
-            "stars": 1015
+            "stars": 1015,
+            "topics": [
+              "c",
+              "cplusplus",
+              "hashtable",
+              "library",
+              "linkedlist",
+              "qlibc",
+              "queue",
+              "stack",
+              "tree-structure",
+              "vector"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -154,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NIH Utility Library",
+            "homepage": null,
             "id": 10059099,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2021-11-20T02:02:46Z",
+            "open_issues": 2,
             "owner": "keybuk",
             "repo": "libnih",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -170,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quake 2 GPL Source Release",
+            "homepage": null,
             "id": 3318174,
             "language": "C",
+            "license": null,
             "last_commit": "2023-12-05T19:48:59Z",
+            "open_issues": 3,
             "owner": "id-Software",
             "repo": "Quake-2",
-            "stars": 3331
+            "stars": 3331,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -186,12 +278,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ioquake3 community effort to continue supporting/developing id's Quake III Arena",
+            "homepage": "https://ioquake3.org/",
             "id": 7390593,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-26T03:11:56Z",
+            "open_issues": 155,
             "owner": "ioquake",
             "repo": "ioq3",
-            "stars": 2805
+            "stars": 2805,
+            "topics": [
+              "fps",
+              "fps-engine",
+              "fps-game",
+              "game",
+              "game-development",
+              "game-engine",
+              "game-engine-3d",
+              "game-engine-development",
+              "quake-3",
+              "quake3"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -202,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure C Game Engine",
+            "homepage": "http://www.youtube.com/watch?v=482GxqTWXtA",
             "id": 1697403,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-03T11:56:44Z",
+            "open_issues": 22,
             "owner": "orangeduck",
             "repo": "Corange",
-            "stars": 1987
+            "stars": 1987,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -218,12 +331,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games.",
+            "homepage": "https://clover.moe/spearmint",
             "id": 7431427,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T08:41:02Z",
+            "open_issues": 108,
             "owner": "clover-moe",
             "repo": "spearmint",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "fps-engine",
+              "game-engine",
+              "opengl",
+              "quake3",
+              "sdl2"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -234,12 +358,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+            "homepage": "http://www.libretro.com",
             "id": 689344,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-29T00:21:41Z",
+            "open_issues": 3009,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13694
+            "stars": 13700,
+            "topics": [
+              "c",
+              "libretro",
+              "retroarch"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -250,12 +383,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast and lightweight 2D game physics library.",
+            "homepage": "http://chipmunk2d.net",
             "id": 2033079,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-05T18:45:27Z",
+            "open_issues": 69,
             "owner": "slembcke",
             "repo": "Chipmunk2D",
-            "stars": 2402
+            "stars": 2402,
+            "topics": [
+              "2d",
+              "2d-physics",
+              "c",
+              "rigid-body"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -266,12 +409,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free implementation of the OpenGL Utility Toolkit (GLUT)",
+            "homepage": "http://freeglut.sourceforge.net",
             "id": 9591436,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:09:33Z",
+            "open_issues": 24,
             "owner": "freeglut",
             "repo": "freeglut",
-            "stars": 913
+            "stars": 913,
+            "topics": [
+              "cross-platform",
+              "glut",
+              "opengl"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -282,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Mirror] Cross Platform Audio Output Library  http://xiph.org/ao/",
+            "homepage": null,
             "id": 10818050,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2013-06-23T12:30:41Z",
+            "open_issues": 0,
             "owner": "timonwong",
             "repo": "libao",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -298,12 +455,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standalone and lightweight C library",
+            "homepage": "http://attractivechaos.github.io/klib/",
             "id": 1251393,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-12-22T04:59:43Z",
+            "open_issues": 94,
             "owner": "attractivechaos",
             "repo": "klib",
-            "stars": 4717
+            "stars": 4717,
+            "topics": [
+              "algorithm",
+              "avl-tree",
+              "b-tree",
+              "c",
+              "generic",
+              "hashtable",
+              "library",
+              "sort"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -314,12 +485,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+            "homepage": "http://www.michaelfogleman.com/craft/",
             "id": 9330072,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-04-03T15:49:34Z",
+            "open_issues": 129,
             "owner": "fogleman",
             "repo": "Craft",
-            "stars": 11095
+            "stars": 11095,
+            "topics": [
+              "c",
+              "game",
+              "glsl",
+              "minecraft",
+              "multiplayer",
+              "opengl",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -330,12 +514,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improved JPEG encoder.",
+            "homepage": null,
             "id": 15837676,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-23T17:05:27Z",
+            "open_issues": 102,
             "owner": "mozilla",
             "repo": "mozjpeg",
-            "stars": 5718
+            "stars": 5718,
+            "topics": [
+              "image-optimization",
+              "jpeg-encoder",
+              "libjpeg",
+              "mozjpeg",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -346,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💩 Colour ASCII Art Library",
+            "homepage": null,
             "id": 29090568,
             "language": "C",
+            "license": "WTFPL",
             "last_commit": "2026-08-14T16:01:19Z",
+            "open_issues": 36,
             "owner": "cacalabs",
             "repo": "libcaca",
-            "stars": 687
+            "stars": 687,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -362,12 +562,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C99 heightmap utilities.",
+            "homepage": "https://prideout.net/heman/",
             "id": 40453735,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-04-27T22:43:51Z",
+            "open_issues": 0,
             "owner": "prideout",
             "repo": "heman",
-            "stars": 491
+            "stars": 491,
+            "topics": [
+              "distance-field",
+              "graphics",
+              "heightmap"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -378,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The cogl3d.org website content",
+            "homepage": null,
             "id": 5426521,
             "language": "CSS",
+            "license": null,
             "last_commit": "2015-09-04T18:31:32Z",
+            "open_issues": 0,
             "owner": "rib",
             "repo": "cogl-web",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -394,12 +608,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/",
+            "homepage": "https://github.com/json-c/json-c/wiki",
             "id": 1139119,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T01:27:31Z",
+            "open_issues": 22,
             "owner": "json-c",
             "repo": "json-c",
-            "stars": 3286
+            "stars": 3286,
+            "topics": [
+              "c",
+              "hacktoberfest",
+              "json"
+            ]
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -410,12 +633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "advanced, flexible JSON manipulation in C",
+            "homepage": null,
             "id": 5454532,
             "language": "C",
+            "license": "LGPL-3.0",
             "last_commit": "2026-03-23T16:29:32Z",
+            "open_issues": 14,
             "owner": "netmail-open",
             "repo": "wjelement",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
         },
@@ -430,12 +658,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+                    "homepage": "https://mongoose.ws",
                     "id": 5414488,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T13:32:14Z",
+                    "open_issues": 2,
                     "owner": "cesanta",
                     "repo": "mongoose",
-                    "stars": 13011
+                    "stars": 13012,
+                    "topics": [
+                      "embedded",
+                      "http",
+                      "iot",
+                      "mqtt",
+                      "tcp",
+                      "tcpip",
+                      "tls13",
+                      "udp",
+                      "web-server",
+                      "webserver",
+                      "websocket"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -446,12 +691,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The future of online communications.",
+                    "homepage": "https://tox.chat/",
                     "id": 10894716,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-13T23:51:00Z",
+                    "open_issues": 99,
                     "owner": "irungentoo",
                     "repo": "toxcore",
-                    "stars": 8748
+                    "stars": 8748,
+                    "topics": [
+                      "str8c",
+                      "tox"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -462,12 +715,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT/Redis client/server.",
+                    "homepage": "https://github.com/ithewei/libhv/wiki",
                     "id": 146397768,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T05:20:20Z",
+                    "open_issues": 41,
                     "owner": "ithewei",
                     "repo": "libhv",
-                    "stars": 7541
+                    "stars": 7541,
+                    "topics": [
+                      "curl",
+                      "epoll",
+                      "http-client",
+                      "http-server",
+                      "https",
+                      "iocp",
+                      "kcp",
+                      "mqtt",
+                      "openssl",
+                      "redis",
+                      "requests",
+                      "webserver",
+                      "websocket",
+                      "websocket-client",
+                      "websocket-server",
+                      "wrk"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -478,12 +753,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "http request/response parser for c",
+                    "homepage": null,
                     "id": 186749,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2022-06-19T08:11:39Z",
+                    "open_issues": 79,
                     "owner": "nodejs",
                     "repo": "http-parser",
-                    "stars": 6446
+                    "stars": 6446,
+                    "topics": [
+                      "node",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -494,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nanomsg library",
+                    "homepage": null,
                     "id": 6154315,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-02T21:30:47Z",
+                    "open_issues": 0,
                     "owner": "nanomsg",
                     "repo": "nanomsg",
-                    "stars": 6292
+                    "stars": 6292,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -510,12 +798,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Experimental, scalable, high performance HTTP server",
+                    "homepage": "https://lwan.ws",
                     "id": 3287591,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T13:17:04Z",
+                    "open_issues": 49,
                     "owner": "lpereira",
                     "repo": "lwan",
-                    "stars": 6033
+                    "stars": 6033,
+                    "topics": [
+                      "c",
+                      "experimental",
+                      "http",
+                      "library",
+                      "lwan"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -526,12 +825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An HTML5 parsing library in pure C99",
+                    "homepage": null,
                     "id": 11850014,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-21T17:17:17Z",
+                    "open_issues": 23,
                     "owner": "google",
                     "repo": "gumbo-parser",
-                    "stars": 5194
+                    "stars": 5194,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -542,12 +846,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An implementation of the TLS/SSL protocols",
+                    "homepage": "https://aws.github.io/s2n-tls/usage-guide/",
                     "id": 21287076,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T02:45:56Z",
+                    "open_issues": 318,
                     "owner": "aws",
                     "repo": "s2n-tls",
-                    "stars": 4757
+                    "stars": 4757,
+                    "topics": [
+                      "c",
+                      "c99",
+                      "crypto",
+                      "cryptography",
+                      "encryption",
+                      "s2n",
+                      "ssl",
+                      "tls"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -558,12 +876,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C library to create simple HTTP servers and Web Applications.",
+                    "homepage": "http://www.coralbits.com/libonion/",
                     "id": 961335,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-10-17T18:56:32Z",
+                    "open_issues": 62,
                     "owner": "davidmoreno",
                     "repo": "onion",
-                    "stars": 2090
+                    "stars": 2090,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -574,12 +897,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High-level C binding for ØMQ",
+                    "homepage": "czmq.zeromq.org",
                     "id": 1510809,
                     "language": "C",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-04-15T09:47:48Z",
+                    "open_issues": 41,
                     "owner": "zeromq",
                     "repo": "czmq",
-                    "stars": 1272
+                    "stars": 1272,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -590,12 +918,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mail Framework for C Language",
+                    "homepage": "www.etpan.org",
                     "id": 2061133,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-22T17:28:55Z",
+                    "open_issues": 14,
                     "owner": "dinhvh",
                     "repo": "libetpan",
-                    "stars": 629
+                    "stars": 629,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -606,12 +939,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wrapper library for the BSD sockets API with a nicer C99 interface",
+                    "homepage": null,
                     "id": 22264109,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2017-05-04T17:47:07Z",
+                    "open_issues": 1,
                     "owner": "silentbicycle",
                     "repo": "socket99",
-                    "stars": 146
+                    "stars": 146,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -622,12 +960,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mini C library for interacting with the Twitter OAuth api.",
+                    "homepage": null,
                     "id": 28492762,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2020-10-06T10:52:29Z",
+                    "open_issues": 1,
                     "owner": "sinemetu1",
                     "repo": "twitc",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -638,12 +981,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A microframework for C based on GLib.",
+                    "homepage": "https://balde.rgm.io/",
                     "id": 14959533,
                     "language": "C",
+                    "license": "LGPL-2.1",
                     "last_commit": "2025-02-23T15:41:04Z",
+                    "open_issues": 6,
                     "owner": "balde",
                     "repo": "balde",
-                    "stars": 726
+                    "stars": 726,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -654,12 +1002,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A C library for statistical and scientific computing",
+                    "homepage": "http://apophenia.info",
                     "id": 2601917,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2025-01-22T01:05:18Z",
+                    "open_issues": 13,
                     "owner": "b-k",
                     "repo": "apophenia",
-                    "stars": 209
+                    "stars": 209,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -670,12 +1023,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.",
+                    "homepage": "http://concurrencykit.org/",
                     "id": 18887187,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-10T20:03:51Z",
+                    "open_issues": 8,
                     "owner": "concurrencykit",
                     "repo": "ck",
-                    "stars": 2692
+                    "stars": 2692,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -686,12 +1044,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open MPI main development repository",
+                    "homepage": "https://www.open-mpi.org",
                     "id": 24107001,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T21:45:47Z",
+                    "open_issues": 821,
                     "owner": "open-mpi",
                     "repo": "ompi",
-                    "stars": 2632
+                    "stars": 2632,
+                    "topics": [
+                      "c",
+                      "fortran",
+                      "hacktoberfest",
+                      "hpc",
+                      "mpi",
+                      "openmpi"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -702,12 +1072,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The approximate regex matching library and agrep command line tool.",
+                    "homepage": null,
                     "id": 5889454,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-23T15:33:19Z",
+                    "open_issues": 53,
                     "owner": "laurikari",
                     "repo": "tre",
-                    "stars": 916
+                    "stars": 916,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -718,12 +1093,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Super Light Regexp engine for C/C++",
+                    "homepage": null,
                     "id": 11735319,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T10:26:12Z",
+                    "open_issues": 19,
                     "owner": "cesanta",
                     "repo": "slre",
-                    "stars": 560
+                    "stars": 560,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -734,12 +1114,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Protocol Buffers implementation in C",
+                    "homepage": null,
                     "id": 14440211,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-22T20:33:30Z",
+                    "open_issues": 48,
                     "owner": "protobuf-c",
                     "repo": "protobuf-c",
-                    "stars": 2990
+                    "stars": 2990,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -750,12 +1135,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MPack - A C encoder/decoder for the MessagePack serialization format / msgpack.org[C]",
+                    "homepage": null,
                     "id": 31540903,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T02:10:38Z",
+                    "open_issues": 11,
                     "owner": "ludocode",
                     "repo": "mpack",
-                    "stars": 633
+                    "stars": 633,
+                    "topics": [
+                      "c",
+                      "messagepack",
+                      "msgpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -766,12 +1160,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An implementation of the MessagePack serialization format in C / msgpack.org[C]",
+                    "homepage": "http://msgpack.org",
                     "id": 19158670,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-08-06T13:21:30Z",
+                    "open_issues": 2,
                     "owner": "camgunz",
                     "repo": "cmp",
-                    "stars": 368
+                    "stars": 368,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -782,12 +1181,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "C library/compiler for the Cap'n Proto serialization/RPC protocol",
+                    "homepage": null,
                     "id": 12792461,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-04-23T12:35:37Z",
+                    "open_issues": 10,
                     "owner": "jmckaskill",
                     "repo": "c-capnproto",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -798,12 +1202,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Package manager for the C programming language.",
+                    "homepage": null,
                     "id": 6425435,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-18T01:44:01Z",
+                    "open_issues": 25,
                     "owner": "clibs",
                     "repo": "clib",
-                    "stars": 5141
+                    "stars": 5141,
+                    "topics": [
+                      "c",
+                      "clib",
+                      "manager",
+                      "package"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -814,12 +1228,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 65830,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2025-11-11T23:04:49Z",
+                    "open_issues": 0,
                     "owner": "aosp-mirror",
                     "repo": "platform_bionic",
-                    "stars": 626
+                    "stars": 626,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -830,12 +1249,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Package manager for the C programming language.",
+                    "homepage": null,
                     "id": 6425435,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-18T01:44:01Z",
+                    "open_issues": 25,
                     "owner": "clibs",
                     "repo": "clib",
-                    "stars": 5141
+                    "stars": 5141,
+                    "topics": [
+                      "c",
+                      "clib",
+                      "manager",
+                      "package"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -846,12 +1275,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "shoco is a compressor for small text strings",
+                    "homepage": "http://ed-von-schleck.github.io/shoco/",
                     "id": 18843548,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-16T12:24:33Z",
+                    "open_issues": 32,
                     "owner": "Ed-von-Schleck",
                     "repo": "shoco",
-                    "stars": 390
+                    "stars": 390,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -862,12 +1296,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "shoco is a compressor for small text strings",
+                    "homepage": "http://ed-von-schleck.github.io/shoco/",
                     "id": 18843548,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-16T12:24:33Z",
+                    "open_issues": 32,
                     "owner": "Ed-von-Schleck",
                     "repo": "shoco",
-                    "stars": 390
+                    "stars": 390,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -878,12 +1317,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple unit testing for C",
+                    "homepage": "https://ThrowTheSwitch.org",
                     "id": 3276860,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T14:08:44Z",
+                    "open_issues": 85,
                     "owner": "ThrowTheSwitch",
                     "repo": "Unity",
-                    "stars": 5357
+                    "stars": 5357,
+                    "topics": [
+                      "c",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -894,12 +1341,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform C and C++ unit testing framework for the 21st century",
+                    "homepage": null,
                     "id": 30111969,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T20:50:46Z",
+                    "open_issues": 80,
                     "owner": "Snaipe",
                     "repo": "Criterion",
-                    "stars": 2298
+                    "stars": 2298,
+                    "topics": [
+                      "c",
+                      "c-plus-plus",
+                      "cross-platform",
+                      "framework",
+                      "kiss",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -910,12 +1369,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mock/stub generator for C",
+                    "homepage": "http://throwtheswitch.org",
                     "id": 3276848,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T15:40:41Z",
+                    "open_issues": 35,
                     "owner": "ThrowTheSwitch",
                     "repo": "CMock",
-                    "stars": 837
+                    "stars": 837,
+                    "topics": [
+                      "c",
+                      "codegen",
+                      "mocking",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -926,12 +1395,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal unit testing framework for C",
+                    "homepage": null,
                     "id": 4783321,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2023-10-27T06:25:41Z",
+                    "open_issues": 6,
                     "owner": "siu",
                     "repo": "minunit",
-                    "stars": 644
+                    "stars": 644,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 },
@@ -942,12 +1416,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convenient unit testing framework for the C programming language.",
+                    "homepage": "http://users.jyu.fi/~sapekiis/cheat/",
                     "id": 13017468,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-01-25T22:22:41Z",
+                    "open_issues": 4,
                     "owner": "Tuplanolla",
                     "repo": "cheat",
-                    "stars": 170
+                    "stars": 170,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:01.680Z"
                 }
@@ -970,12 +1449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template system for Emacs",
+                "homepage": "http://joaotavora.github.io/yasnippet/",
                 "id": 2537904,
                 "language": "Emacs Lisp",
+                "license": null,
                 "last_commit": "2025-06-04T20:22:16Z",
+                "open_issues": 161,
                 "owner": "joaotavora",
                 "repo": "yasnippet",
-                "stars": 2956
+                "stars": 2956,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -986,12 +1470,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On the fly syntax checking for GNU Emacs",
+                "homepage": "https://www.flycheck.org",
                 "id": 6158882,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:27:17Z",
+                "open_issues": 2,
                 "owner": "flycheck",
                 "repo": "flycheck",
-                "stars": 2534
+                "stars": 2534,
+                "topics": [
+                  "emacs",
+                  "flycheck",
+                  "syntax-checking"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             }
@@ -1009,12 +1502,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Syntax checking hacks for vim",
+                "homepage": null,
                 "id": 248523,
                 "language": "Vim script",
+                "license": "WTFPL",
                 "last_commit": "2022-07-10T12:58:50Z",
+                "open_issues": 50,
                 "owner": "vim-syntastic",
                 "repo": "syntastic",
-                "stars": 11217
+                "stars": 11217,
+                "topics": [
+                  "lint",
+                  "lint-checking",
+                  "linters",
+                  "syntax-checker",
+                  "syntax-checking",
+                  "vim-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1025,12 +1530,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎥 Command line media player",
+                "homepage": "https://mpv.io",
                 "id": 6201092,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
+                "open_issues": 1143,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36721
+                "stars": 36723,
+                "topics": [
+                  "audio",
+                  "c",
+                  "ffmpeg",
+                  "mplayer",
+                  "mpv",
+                  "multimedia",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1041,12 +1559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
+                "homepage": null,
                 "id": 23641816,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T16:35:54Z",
+                "open_issues": 549,
                 "owner": "google",
                 "repo": "sanitizers",
-                "stars": 12454
+                "stars": 12454,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1057,12 +1580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for use with clang to analyze #includes in C and C++ source files",
+                "homepage": "https://include-what-you-use.org",
                 "id": 37440338,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T19:56:42Z",
+                "open_issues": 218,
                 "owner": "include-what-you-use",
                 "repo": "include-what-you-use",
-                "stars": 4759
+                "stars": 4759,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1073,12 +1601,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compile and execute C \"scripts\" in one go!",
+                "homepage": null,
                 "id": 31526549,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-12-05T02:58:15Z",
+                "open_issues": 11,
                 "owner": "ryanmjacobs",
                 "repo": "c",
-                "stars": 2184
+                "stars": 2184,
+                "topics": [
+                  "c",
+                  "clang",
+                  "cli",
+                  "compiler",
+                  "cpp",
+                  "gcc",
+                  "script",
+                  "tcc"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1089,12 +1631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another build system for C/C++, I guess? Inspired by 'go build'",
+                "homepage": null,
                 "id": 24470101,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2015-11-25T15:43:36Z",
+                "open_issues": 6,
                 "owner": "andlabs",
                 "repo": "qo",
-                "stars": 303
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1105,12 +1652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A shebang-friendly script for \"interpreting\" single C99, C11, and C++ files, including rcfile support.",
+                "homepage": null,
                 "id": 15564561,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-01-13T01:22:38Z",
+                "open_issues": 5,
                 "owner": "RhysU",
                 "repo": "c99sh",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1121,12 +1673,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎥 Command line media player",
+                "homepage": "https://mpv.io",
                 "id": 6201092,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:33:56Z",
+                "open_issues": 1143,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36721
+                "stars": 36723,
+                "topics": [
+                  "audio",
+                  "c",
+                  "ffmpeg",
+                  "mplayer",
+                  "mpv",
+                  "multimedia",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1137,12 +1702,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform asynchronous I/O",
+                "homepage": "https://libuv.org/",
                 "id": 14812739,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T09:27:28Z",
+                "open_issues": 234,
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27143
+                "stars": 27142,
+                "topics": [
+                  "asynchronous",
+                  "deep-io",
+                  "io",
+                  "networking",
+                  "unicorns",
+                  "unix",
+                  "velociraptors",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1153,12 +1732,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+                "homepage": "https://www.libgit2.org",
                 "id": 901662,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-15T12:37:11Z",
+                "open_issues": 527,
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10574
+                "stars": 10574,
+                "topics": [
+                  "c",
+                  "dvcs",
+                  "git",
+                  "libgit2",
+                  "library",
+                  "version-control"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1169,12 +1760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main gperftools repository",
+                "homepage": null,
                 "id": 16309670,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-25T16:16:01Z",
+                "open_issues": 111,
                 "owner": "gperftools",
                 "repo": "gperftools",
-                "stars": 8978
+                "stars": 8978,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1185,12 +1781,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform protocol library to communicate with iOS devices",
+                "homepage": "https://libimobiledevice.org",
                 "id": 8180677,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-06-10T07:52:18Z",
+                "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8136
+                "stars": 8136,
+                "topics": [
+                  "c",
+                  "ios",
+                  "library",
+                  "lockdownd",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1201,12 +1808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+                "homepage": "http://libccv.org",
                 "id": 912896,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T05:51:58Z",
+                "open_issues": 80,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7242
+                "stars": 7242,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1217,12 +1829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A massively spiffy yet delicately unobtrusive compression library.",
+                "homepage": "http://zlib.net/",
                 "id": 2359378,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-01T09:13:57Z",
+                "open_issues": 296,
                 "owner": "madler",
                 "repo": "zlib",
-                "stars": 7054
+                "stars": 7055,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1233,12 +1850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CommonMark spec, with reference implementations in C and JavaScript",
+                "homepage": "http://commonmark.org",
                 "id": 22942790,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-27T19:15:35Z",
+                "open_issues": 129,
                 "owner": "commonmark",
                 "repo": "commonmark-spec",
-                "stars": 5137
+                "stars": 5137,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1249,12 +1871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Parser Combinator library for C",
+                "homepage": null,
                 "id": 13122868,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-10T23:14:43Z",
+                "open_issues": 38,
                 "owner": "orangeduck",
                 "repo": "mpc",
-                "stars": 2852
+                "stars": 2852,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1265,12 +1892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C library for cross-platform real-time audio input and output",
+                "homepage": "http://libsound.io/",
                 "id": 38333501,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-01-13T00:38:33Z",
+                "open_issues": 137,
                 "owner": "andrewrk",
                 "repo": "libsoundio",
-                "stars": 2100
+                "stars": 2100,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1281,12 +1913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standards compliant, fast, secure markdown processing library in C",
+                "homepage": null,
                 "id": 1618114,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-07-23T10:50:07Z",
+                "open_issues": 48,
                 "owner": "vmg",
                 "repo": "sundown",
-                "stars": 2019
+                "stars": 2019,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1297,12 +1934,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform independent Near Field Communication (NFC) library",
+                "homepage": "http://nfc-tools.org",
                 "id": 33354099,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-03-05T13:47:26Z",
+                "open_issues": 120,
                 "owner": "nfc-tools",
                 "repo": "libnfc",
-                "stars": 1985
+                "stars": 1985,
+                "topics": [
+                  "c",
+                  "libnfc",
+                  "nfc",
+                  "pcsc-lite"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1313,12 +1960,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RabbitMQ C client",
+                "homepage": null,
                 "id": 1855590,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-24T01:28:39Z",
+                "open_issues": 119,
                 "owner": "alanxz",
                 "repo": "rabbitmq-c",
-                "stars": 1863
+                "stars": 1863,
+                "topics": [
+                  "rabbitmq",
+                  "rabbitmq-client"
+                ]
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1329,12 +1984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal configuration library parser",
+                "homepage": null,
                 "id": 13486798,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T18:55:16Z",
+                "open_issues": 115,
                 "owner": "vstakhov",
                 "repo": "libucl",
-                "stars": 1743
+                "stars": 1743,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1345,12 +2005,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An eventing framework for building high performance and high scalability systems in C.",
+                "homepage": "http://facebook.github.io/libphenom",
                 "id": 7083261,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-08T18:48:08Z",
+                "open_issues": 9,
                 "owner": "facebookarchive",
                 "repo": "libphenom",
-                "stars": 1663
+                "stars": 1663,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1361,12 +2026,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A protocol buffers library for C",
+                "homepage": null,
                 "id": 2869484,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-11-03T03:00:02Z",
+                "open_issues": 73,
                 "owner": "cloudwu",
                 "repo": "pbc",
-                "stars": 1622
+                "stars": 1622,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1377,12 +2047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ini file parser",
+                "homepage": "https://gitlab.com/iniparser/iniparser",
                 "id": 851288,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-19T21:22:49Z",
+                "open_issues": 6,
                 "owner": "ndevilla",
                 "repo": "iniparser",
-                "stars": 1072
+                "stars": 1072,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1393,12 +2068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WAFer is a C language-based software platform for scalable server-side and networking applications. Think node.js for C programmers.",
+                "homepage": null,
                 "id": 21638579,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2017-12-07T22:32:39Z",
+                "open_issues": 18,
                 "owner": "riolet",
                 "repo": "WAFer",
-                "stars": 697
+                "stars": 697,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1409,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple C library for working with KD-Trees",
+                "homepage": "http://nuclear.mutantstargoat.com/sw/kdtree/",
                 "id": 32119260,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-07T15:57:28Z",
+                "open_issues": 7,
                 "owner": "jtsiomb",
                 "repo": "kdtree",
-                "stars": 415
+                "stars": 415,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1425,12 +2110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight exception implementation for C",
+                "homepage": "http://throwtheswitch.org",
                 "id": 3276873,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-24T23:33:36Z",
+                "open_issues": 2,
                 "owner": "ThrowTheSwitch",
                 "repo": "CException",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1441,12 +2131,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ARCHIVED - libbson has moved to https://github.com/mongodb/mongo-c-driver/tree/master/src/libbson",
+                "homepage": null,
                 "id": 8978081,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-10T09:38:11Z",
+                "open_issues": 1,
                 "owner": "mongodb",
                 "repo": "libbson",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1457,12 +2152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C-code generator for docopt language.",
+                "homepage": null,
                 "id": 4768243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-14T15:06:47Z",
+                "open_issues": 18,
                 "owner": "docopt",
                 "repo": "docopt.c",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1473,12 +2173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parser combinators for binary formats, in C. Yes, in C. What? Don't look at me like that.",
+                "homepage": null,
                 "id": 4107759,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2020-10-06T11:01:23Z",
+                "open_issues": 6,
                 "owner": "abiggerhammer",
                 "repo": "hammer",
-                "stars": 292
+                "stars": 292,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1489,12 +2194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple hash table implementation for C.",
+                "homepage": null,
                 "id": 35009331,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-30T01:34:54Z",
+                "open_issues": 2,
                 "owner": "watmough",
                 "repo": "jwHash",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1505,12 +2215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal Huffman coder/decoder",
+                "homepage": null,
                 "id": 10533025,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-06-14T18:40:40Z",
+                "open_issues": 2,
                 "owner": "adamierymenko",
                 "repo": "huffandpuff",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1521,12 +2236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libaries for reading/writing APEv2 tags in many languages",
+                "homepage": null,
                 "id": 7611,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-22T00:00:49Z",
+                "open_issues": 0,
                 "owner": "jeremyevans",
                 "repo": "ape_tag_libs",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             },
@@ -1537,12 +2257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable foreign-function interface library.",
+                "homepage": "http://sourceware.org/libffi",
                 "id": 995298880,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-12T10:51:45Z",
+                "open_issues": 0,
                 "owner": "atgreen",
                 "repo": "libffi",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
             }
@@ -1556,15 +2281,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:01.680Z",
+    "last_updated": "2026-08-29T04:18:12.392Z",
     "original_repository_info": {
       "archived": false,
+      "description": "C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。",
+      "homepage": null,
       "id": 45458777,
       "language": null,
+      "license": null,
       "last_commit": "2023-02-10T15:48:13Z",
+      "open_issues": 1,
       "owner": "jobbole",
       "repo": "awesome-c-cn",
-      "stars": 6663
+      "stars": 6663,
+      "topics": []
     },
     "original_repository_sha": "a1fb60e5a0095f8dcd80fc9fb76f695dbc39b0df",
     "enhanced_repository": "enhansome/enhansome-c-cn",

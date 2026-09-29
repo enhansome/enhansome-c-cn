@@ -123,7 +123,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="compilers">编译器</h2>
 
-* CompCert：一个经过充分验证的 C 编译器。支持几乎所有的 C89 标准。[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://github.com/AbsInt/CompCert) ⭐ 2,230 | 🐛 41 | 🌐 Rocq Prover | 📅 2026-09-24
+* CompCert：一个经过充分验证的 C 编译器。支持几乎所有的 C89 标准。[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://github.com/AbsInt/CompCert) ⭐ 2,231 | 🐛 40 | 🌐 Rocq Prover | 📅 2026-09-29
 * Clang：一个基于 LLVM 的 C 的编译器，支持 C11 标准。[NCSA](http://directory.fsf.org/wiki/License:IllinoisNCSA)。[官网](http://clang.llvm.org/)
 * GCC：在它的编译器集合中提供了 C 编译器。支持 C11 和 OpenMP 的标准。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://gcc.gnu.org/)
 * PCC：一个值得尊敬的 C 编译器，支持 C99 标准。[Various licenses](http://pcc.ludd.ltu.se/licenses/)，完全免费。[官网](http://pcc.ludd.ltu.se/)
@@ -131,8 +131,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="crypto">加密</h2>
 
-* libsodium：一个现代，易用的加密库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/jedisct1/libsodium) ⭐ 13,969 | 🐛 1 | 🌐 C | 📅 2026-09-28
-* libtomcrypt：一个相当全面，模块化和可移植的工具集。公开领域。[官网](https://github.com/libtom/libtomcrypt) ⭐ 1,791 | 🐛 59 | 🌐 C | 📅 2026-09-01
+* libsodium：一个现代，易用的加密库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/jedisct1/libsodium) ⭐ 13,971 | 🐛 1 | 🌐 C | 📅 2026-09-28
+* libtomcrypt：一个相当全面，模块化和可移植的工具集。公开领域。[官网](https://github.com/libtom/libtomcrypt) ⭐ 1,793 | 🐛 59 | 🌐 C | 📅 2026-09-01
 * GnuTLS：一个安全通信库，实现了 SSL，TLS 和 DTLS。[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](http://www.gnutls.org/)
 * libgcrypt：一个通用的密码库，支持多种加密方法。 [GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) （代码），[GNU GPL2.1](http://www.gnu.org/licenses/gpl.html) 或更高版本（说明书和工具）。[官网](https://www.gnu.org/software/libgcrypt/)
 * OpenSSL：一个 SSL 和 TLS 协议的实现，还包括一个加密库。[Dual Licensed under the OpenSSL License and the SSLeay License](https://www.openssl.org/source/license.html)。[官网](https://www.openssl.org/)
@@ -144,7 +144,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Hiredis：一个极简的 Redis 客户端。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/redis/hiredis) ⭐ 6,689 | 🐛 86 | 🌐 C | 📅 2026-09-23
 * sophia：一个现代，可嵌入的键值对数据库。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/pmwkaa/sophia) ⭐ 1,887 | 🐛 56 | 🌐 C | 📅 2026-03-03
-* mongo-c-driver：一个高性能的 MongoDB 客户端。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0).[官网](https://github.com/mongodb/mongo-c-driver) ⭐ 882 | 🐛 9 | 🌐 C | 📅 2026-09-28
+* mongo-c-driver：一个高性能的 MongoDB 客户端。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0).[官网](https://github.com/mongodb/mongo-c-driver) ⭐ 882 | 🐛 12 | 🌐 C | 📅 2026-09-29
 * BerkeleyDB：一个高性能的嵌入式键值对数据库。[GNU AGPLv3](https://gnu.org/licenses/agpl.html)。[官网](http://www.oracle.com/us/products/database/berkeley-db/overview/index.html)
 * LMDB：一个极快，极简的嵌入式键值对数据存储系统。[newOpenLDAP](http://directory.fsf.org/wiki/License:OpenLDAPv2.7)。[官网](http://symas.com/mdb/)
 * MariaDB：一个强壮，可扩展和可靠的 SQL 服务器，设计来作为 MySQL 的替代品。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://mariadb.com/)
@@ -184,7 +184,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 这一节包括提供数据结构的大型库和你所期待“现代”的标准库。
 
-* stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb) ⭐ 34,730 | 🐛 432 | 🌐 C | 📅 2026-08-02
+* stb：一系列单文件 C 库。公共领域。[官网](https://github.com/nothings/stb) ⭐ 34,733 | 🐛 432 | 🌐 C | 📅 2026-08-02
 * C Algorithms：一个常用算法和数据结构的集合。[官网](https://github.com/fragglet/c-algorithms) ⭐ 3,617 | 🐛 10 | 🌐 C | 📅 2026-03-17
 * qlibc：一个简单且强大的 C 库，当我们想要小且轻的库时，可作为 Glib 的替代品。[qLib license](https://github.com/wolkykim/qlibc/blob/master/LICENSE) ⭐ 1,015 | 🐛 0 | 🌐 C | 📅 2026-08-11 (类似于 [FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD"))。[官网](https://github.com/wolkykim/qlibc) ⭐ 1,015 | 🐛 0 | 🌐 C | 📅 2026-08-11
 * libnih：一个轻量级的 C 函数和数据结构库。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/keybuk/libnih) ⭐ 92 | 🐛 2 | 🌐 C | 📅 2021-11-20
@@ -204,8 +204,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 这些作为 C 游戏编程代码的例子。
 
-* [Quake2](http://hao.importnew.com/quake2/)：Quake2 引擎。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/id-Software/Quake-2) ⭐ 3,349 | 🐛 3 | 🌐 C | 📅 2023-12-05
-* ioquake3：Quake3 引擎，终于免费啦。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/ioquake/ioq3) ⭐ 2,828 | 🐛 155 | 🌐 C | 📅 2026-09-17
+* [Quake2](http://hao.importnew.com/quake2/)：Quake2 引擎。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/id-Software/Quake-2) ⭐ 3,350 | 🐛 3 | 🌐 C | 📅 2023-12-05
+* ioquake3：Quake3 引擎，终于免费啦。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/ioquake/ioq3) ⭐ 2,829 | 🐛 155 | 🌐 C | 📅 2026-09-17
 * [Corange](http://hao.importnew.com/corange/)：一个纯 C 的游戏引擎。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/orangeduck/Corange) ⭐ 1,997 | 🐛 22 | 🌐 C | 📅 2024-06-03
 * Spearmint：一个为 FPS 游戏设计的引擎。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)及更高版本。[官网](https://github.com/zturtleman/spearmint) ⭐ 278 | 🐛 108 | 🌐 C | 📅 2026-05-25
 * Darkplaces：一个 Quake2 引擎的修改版本。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://icculus.org/twilight/darkplaces/)
@@ -215,8 +215,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 这些是筛选过的，对游戏编程有用的库。
 
-* RetroArch：[libretro](http://www.libretro.com/) 的参考前端。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](https://github.com/libretro/RetroArch) ⭐ 14,154 | 🐛 3,004 | 🌐 C | 📅 2026-09-28
-* Chipmunk2D：一个快且轻量级的 2D 游戏物理库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/slembcke/Chipmunk2D) ⭐ 2,409 | 🐛 69 | 🌐 C | 📅 2026-05-05
+* RetroArch：[libretro](http://www.libretro.com/) 的参考前端。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](https://github.com/libretro/RetroArch) ⭐ 14,172 | 🐛 3,006 | 🌐 C | 📅 2026-09-29
+* Chipmunk2D：一个快且轻量级的 2D 游戏物理库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/slembcke/Chipmunk2D) ⭐ 2,410 | 🐛 69 | 🌐 C | 📅 2026-05-05
 * FreeGLUT：一个替代性的 OpenGL 实用工具包。允许用 OpenGL 上下文创建和管理窗口。[X11](http://directory.fsf.org/wiki/License:X11)。[官网](https://github.com/dcnieho/FreeGLUT) ⭐ 919 | 🐛 25 | 🌐 C | 📅 2026-08-28
 * libao：一个有多种输出的跨平台音频库。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本。[官网](https://github.com/timonwong/libao) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2013-06-23
 * Allegro：一个跨平台，视频游戏开发和多媒体库。[zlib](http://directory.fsf.org/wiki/License:Zlib)。[官网](http://liballeg.org)
@@ -255,7 +255,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="json">JSON</h2>
 
-* json-c：一个处理 JSON 的库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/json-c/json-c/wiki) ⭐ 3,296 | 🐛 22 | 🌐 C | 📅 2026-09-20
+* json-c：一个处理 JSON 的库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/json-c/json-c/wiki) ⭐ 3,296 | 🐛 26 | 🌐 C | 📅 2026-09-20
 * WJElement：高级 JSON 处理库，支持 JSON Schema。任意版本的 LGPL。[官网](https://github.com/netmail-open/wjelement/) ⭐ 111 | 🐛 14 | 🌐 C | 📅 2026-03-23
 * Jansson：一个编码，解码和处理 JSON 的 C 库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](http://www.digip.org/jansson/)
 * jsmn：一个极简的 JSON 解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](http://zserge.com/jsmn.html)
@@ -354,14 +354,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="networking-and-internet">网络编程</h2>
 
-* [mongoose](http://hao.importnew.com/mongoose/)：基于 C 的嵌入式 Web 服务器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/mongoose) ⭐ 13,059 | 🐛 2 | 🌐 C | 📅 2026-09-28
+* [mongoose](http://hao.importnew.com/mongoose/)：基于 C 的嵌入式 Web 服务器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/cesanta/mongoose) ⭐ 13,063 | 🐛 3 | 🌐 C | 📅 2026-09-29
 * Tox：一个通信平台，被设计为 Skype 杀手。[GNU GPL3](http://www.gnu.org/licenses/gpl.html)。[官网](https://github.com/irungentoo/toxcore) ⭐ 8,748 | 🐛 91 | 🌐 C | 📅 2024-07-13
-* libhv：一个比libevent、libuv更易用的国产网络库，可用来开发 TCP/UDP/SSL/HTTP/WebSocket 客户端/服务端。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/ithewei/libhv) ⭐ 7,556 | 🐛 48 | 🌐 C | 📅 2026-09-25
+* libhv：一个比libevent、libuv更易用的国产网络库，可用来开发 TCP/UDP/SSL/HTTP/WebSocket 客户端/服务端。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/ithewei/libhv) ⭐ 7,556 | 🐛 49 | 🌐 C | 📅 2026-09-25
 * http-parser：一个 HTTP 请求回应解析器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/nodejs/http-parser) ⚠️ Archived
 * nanomsg：一个基于 C 的 ZeroMQ 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/nanomsg/nanomsg) ⭐ 6,299 | 🐛 0 | 🌐 C | 📅 2026-09-06
-* lwan：一个实验性，可扩展，高性能的 HTTP 服务器。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/lpereira/lwan) ⭐ 6,037 | 🐛 49 | 🌐 C | 📅 2026-09-27
+* lwan：一个实验性，可扩展，高性能的 HTTP 服务器。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/lpereira/lwan) ⭐ 6,038 | 🐛 49 | 🌐 C | 📅 2026-09-27
 * gumbo-parser：一个 C99 标准的 HTML5 解析库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/google/gumbo-parser) ⚠️ Archived
-* s2n：一个 C99 标准的 TLS/SSL 协议的实现，简单，快并且以安全优先。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/awslabs/s2n) ⭐ 4,767 | 🐛 310 | 🌐 C | 📅 2026-09-28
+* s2n：一个 C99 标准的 TLS/SSL 协议的实现，简单，快并且以安全优先。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/awslabs/s2n) ⭐ 4,767 | 🐛 310 | 🌐 C | 📅 2026-09-29
 * onion：易于使用的 HTTP 服务器库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/davidmoreno/onion) ⭐ 2,088 | 🐛 62 | 🌐 C | 📅 2022-10-17
 * czmq：一个 ZeroMQ 的高级绑定。[官网](https://github.com/zeromq/czmq) ⭐ 1,274 | 🐛 41 | 🌐 C | 📅 2026-04-15
 * LibEtPan：一个邮件库，支持 IMAP，SMTP，POP 和 NNTP 网络协议。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/dinhviethoa/libetpan) ⭐ 630 | 🐛 13 | 🌐 C | 📅 2026-09-24
@@ -389,7 +389,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="#numerical">数值计算</h2>
 
-* apophenia：一个用于统计和科学计算的库。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/b-k/apophenia) ⭐ 208 | 🐛 13 | 🌐 C | 📅 2025-01-22
+* apophenia：一个用于统计和科学计算的库。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://github.com/b-k/apophenia) ⭐ 209 | 🐛 13 | 🌐 C | 📅 2025-01-22
 * ATLAS：自动调谐线性代数软件。 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](http://math-atlas.sourceforge.net/)
 * BLAS：Basic Linear Algebra Subprograms；提供向量和矩阵操作的一系列操作。[BLAS license](http://www.netlib.org/blas/#_licensing)。[官网](http://www.netlib.org/blas/)
 * Cuba：一个计算多维的数值积分的库。 [GNU LGPLv3](http://www.gnu.org/licenses/lgpl.html)。[官网](http://www.feynarts.de/cuba/)
@@ -410,8 +410,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="parallel-programming">并行编程</h2>
 
-* ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck) ⭐ 2,704 | 🐛 9 | 🌐 C | 📅 2026-09-28
-* OpenMPI：一个消息传输接口实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/open-mpi/ompi) ⭐ 2,650 | 🐛 609 | 🌐 C | 📅 2026-09-28
+* ck：并发原语，安全内存回收机制和非阻塞数据结构。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/concurrencykit/ck) ⭐ 2,704 | 🐛 6 | 🌐 C | 📅 2026-09-29
+* OpenMPI：一个消息传输接口实现。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/open-mpi/ompi) ⭐ 2,655 | 🐛 570 | 🌐 C | 📅 2026-09-29
 * cchan：一个线程间通信通道构建的小型库。公共领域。[官网](http://repo.hu/projects/cchan/)
 * mill：用 C 写成的 Go 风格并发。[X11](https://directory.fsf.org/wiki/License:X11)[官网](http://libmill.org/)
 * MPICH：MPI 的另一种实现。[MPICH licence](http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT)。[官网](http://www.mpich.org/)
@@ -460,7 +460,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="string-manipulation">字符串处理</h2>
 
-* SDS：Simple Dynamic Strings；一个用简单方式处理 C 字符串的库，而且兼容标准 C 字符串函数。可通过 [clib](https://github.com/clibs/clib) ⭐ 5,144 | 🐛 26 | 🌐 C | 📅 2026-07-18 使用。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/antirez/sds) ⭐ 5,570 | 🐛 106 | 🌐 C | 📅 2025-04-18
+* SDS：Simple Dynamic Strings；一个用简单方式处理 C 字符串的库，而且兼容标准 C 字符串函数。可通过 [clib](https://github.com/clibs/clib) ⭐ 5,144 | 🐛 26 | 🌐 C | 📅 2026-07-18 使用。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/antirez/sds) ⭐ 5,571 | 🐛 106 | 🌐 C | 📅 2025-04-18
 * shoco：一个小型文本压缩器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/Ed-von-Schleck/shoco) ⭐ 390 | 🐛 32 | 🌐 C | 📅 2026-02-16
 * smaz：一个高效的字符串压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause).[官网](https://github.com/Ed-von-Schleck/shoco) ⭐ 390 | 🐛 32 | 🌐 C | 📅 2026-02-16
 * bstrlib：更好的字符串处理库。双重许可，[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause) 或 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](http://bstring.sourceforge.net/)
@@ -470,9 +470,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="testing">测试工具</h2>
 
-* Unity：一个简单的 C 单元测试框架。 [Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ThrowTheSwitch/Unity) ⭐ 5,392 | 🐛 84 | 🌐 C | 📅 2026-09-10
+* Unity：一个简单的 C 单元测试框架。 [Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ThrowTheSwitch/Unity) ⭐ 5,393 | 🐛 85 | 🌐 C | 📅 2026-09-10
 * Criterion：一个 KISS 风格，非侵入式的 C 测试框架。[Expat](http://directory.fsf.org/wiki/License:Expat)[官网](https://github.com/Snaipe/Criterion) ⭐ 2,304 | 🐛 58 | 🌐 C | 📅 2026-09-09
-* CMock：一个 C 的 mock/stub 生成器。[官网](https://github.com/ThrowTheSwitch/CMock) ⭐ 842 | 🐛 35 | 🌐 C | 📅 2026-08-25
+* CMock：一个 C 的 mock/stub 生成器。[官网](https://github.com/ThrowTheSwitch/CMock) ⭐ 843 | 🐛 35 | 🌐 C | 📅 2026-08-25
 * minunit：极小的 C 单元测试框架。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/siu/minunit) ⭐ 644 | 🐛 6 | 🌐 C | 📅 2023-10-27
 * CHEAT：一个非常简单的单元测试框架。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/Tuplanolla/cheat) ⭐ 170 | 🐛 4 | 🌐 C | 📅 2021-01-25
 * Check：一个 C 的单元测试框架。[GNU LGPL2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)。[官网](http://check.sourceforge.net/)
@@ -498,12 +498,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 下面是实用的程序列表，包括了帮助你编写和调试 C 代码的库或者编译器，不包括编辑器。
 
-* cdecl：一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。[官网](https://github.com/mpv-player/mpv) ⭐ 37,152 | 🐛 1,169 | 🌐 C | 📅 2026-09-28
+* cdecl：一个在线服务，能够把 C 的声明翻译成英文，反向也可以。公共领域。[官网](https://github.com/mpv-player/mpv) ⭐ 37,166 | 🐛 1,172 | 🌐 C | 📅 2026-09-29
 * address-sanitizer：一个很快的内存错误探测器。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/google/sanitizers) ⭐ 12,486 | 🐛 549 | 🌐 C | 📅 2026-09-09
-* include-what-you-use：帮助程序员发现不必要的包含和提供解决他们的建议。基于 LLVM/Clang（只能与它一起工作）。[NCSA](http://directory.fsf.org/wiki/License:IllinoisNCSA)。[官网](https://github.com/include-what-you-use/include-what-you-use) ⭐ 4,772 | 🐛 224 | 🌐 C++ | 📅 2026-09-28
+* include-what-you-use：帮助程序员发现不必要的包含和提供解决他们的建议。基于 LLVM/Clang（只能与它一起工作）。[NCSA](http://directory.fsf.org/wiki/License:IllinoisNCSA)。[官网](https://github.com/include-what-you-use/include-what-you-use) ⭐ 4,772 | 🐛 226 | 🌐 C++ | 📅 2026-09-28
 * c：在命令行中编译和执行 C 脚本，也支持 shebang。 [Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ryanmjacobs/c) ⭐ 2,183 | 🐛 12 | 🌐 Shell | 📅 2025-12-05
 * qo：无需分开的配置文件的构建系统。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/andlabs/qo) ⭐ 303 | 🐛 6 | 🌐 Go | 📅 2015-11-25
-* c99sh：用 hash-bang 运行 C 文件。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/RhysU/c99sh) ⭐ 114 | 🐛 5 | 🌐 Shell | 📅 2026-01-13
+* c99sh：用 hash-bang 运行 C 文件。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/RhysU/c99sh) ⭐ 114 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
 * adlint：一个静态分析器。支持完全的 C89 标准和部分 C99 标准。[GNU GPL3](http://www.gnu.org/licenses/gpl.html) 或更高版本。[官网](https://yanoh.github.io/adlint/)
 * Artistic Style：一个支持 C 的小而快的自动化代码格式化工具。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。[官网](http://astyle.sourceforge.net/)
 * [biicode](http://hao.importnew.com/biicode/)：一个现代的 C 依赖管理器。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://biicode.github.io/biicode/)
@@ -529,17 +529,17 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 下面是包罗万象的目录，主要是那些不适合放在其他目录的东西。
 
-* libmpv：音乐播放库。编译的时候加入 `./waf configure --disable-cplayer --enable-libmpv-shared` 来避免生成音乐播放器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本。[官网](https://github.com/mpv-player/mpv) ⭐ 37,152 | 🐛 1,169 | 🌐 C | 📅 2026-09-28
-* libuv：跨平台异步 I/O。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/libuv/libuv) ⭐ 27,209 | 🐛 249 | 🌐 C | 📅 2026-09-28
-* libgit2：Git 的纯 C 实现。[GNU GPL2 only, with a linking exception](https://github.com/libgit2/libgit2/blob/master/COPYING) ⭐ 10,614 | 🐛 554 | 🌐 C | 📅 2026-08-15。[官网](https://libgit2.github.com/)
-* gperftools：一系列测量和提高性能的实用工具集合。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/gperftools/gperftools) ⭐ 8,976 | 🐛 109 | 🌐 C++ | 📅 2026-09-05
-* libimobiledevice：一个跨平台协议库，用于与 iThings 通信。[GNU LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或更高版本（库），[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本（工具）。[官网](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,218 | 🐛 847 | 🌐 C | 📅 2026-06-10
+* libmpv：音乐播放库。编译的时候加入 `./waf configure --disable-cplayer --enable-libmpv-shared` 来避免生成音乐播放器。[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本。[官网](https://github.com/mpv-player/mpv) ⭐ 37,166 | 🐛 1,172 | 🌐 C | 📅 2026-09-29
+* libuv：跨平台异步 I/O。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/libuv/libuv) ⭐ 27,215 | 🐛 252 | 🌐 C | 📅 2026-09-28
+* libgit2：Git 的纯 C 实现。[GNU GPL2 only, with a linking exception](https://github.com/libgit2/libgit2/blob/master/COPYING) ⭐ 10,616 | 🐛 554 | 🌐 C | 📅 2026-08-15。[官网](https://libgit2.github.com/)
+* gperftools：一系列测量和提高性能的实用工具集合。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/gperftools/gperftools) ⭐ 8,977 | 🐛 109 | 🌐 C++ | 📅 2026-09-05
+* libimobiledevice：一个跨平台协议库，用于与 iThings 通信。[GNU LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) 或更高版本（库），[GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 或更高版本（工具）。[官网](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,219 | 🐛 847 | 🌐 C | 📅 2026-06-10
 * [ccv](http://hao.importnew.com/ccv/)：基于C语言、带缓存机制的现代计算机视觉核心库。 [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/liuliu/ccv) ⭐ 7,242 | 🐛 80 | 🌐 C++ | 📅 2026-09-28
-* zlib：一个相当漂亮却精致不张扬的压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/madler/zlib) ⭐ 7,103 | 🐛 287 | 🌐 C | 📅 2026-09-21
-* CommonMark：CommonMark 规范的 C 实现。[Variety of licenses, all free](https://github.com/jgm/CommonMark/blob/master/LICENSE) ⭐ 5,147 | 🐛 132 | 🌐 Python | 📅 2026-04-27。[官网](https://github.com/jgm/CommonMark) ⭐ 5,147 | 🐛 132 | 🌐 Python | 📅 2026-04-27
+* zlib：一个相当漂亮却精致不张扬的压缩库。[3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)。[官网](https://github.com/madler/zlib) ⭐ 7,105 | 🐛 287 | 🌐 C | 📅 2026-09-21
+* CommonMark：CommonMark 规范的 C 实现。[Variety of licenses, all free](https://github.com/jgm/CommonMark/blob/master/LICENSE) ⭐ 5,148 | 🐛 132 | 🌐 Python | 📅 2026-04-27。[官网](https://github.com/jgm/CommonMark) ⭐ 5,148 | 🐛 132 | 🌐 Python | 📅 2026-04-27
 * mpc：解析器组合库。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/orangeduck/mpc) ⭐ 2,854 | 🐛 38 | 🌐 C | 📅 2025-08-10
 * libsoundio：跨平台，实时音频输入输出的库，有很多种后端。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/andrewrk/libsoundio) ⭐ 2,103 | 🐛 138 | 🌐 C | 📅 2025-01-13
-* [Sundown](http://hao.importnew.com/sundown/)：一个用C编写的符合标准的、快速的、安全的源码解析器。[官网](https://github.com/vmg/sundown) ⭐ 2,019 | 🐛 48 | 🌐 C | 📅 2018-07-23
+* [Sundown](http://hao.importnew.com/sundown/)：一个用C编写的符合标准的、快速的、安全的源码解析器。[官网](https://github.com/vmg/sundown) ⭐ 2,020 | 🐛 48 | 🌐 C | 📅 2018-07-23
 * libnfc：一个平台独立的 NFC 库。[GNU LGPL3](http://www.gnu.org/licenses/lgpl.html)。[官网](https://github.com/nfc-tools/libnfc) ⭐ 1,992 | 🐛 121 | 🌐 C | 📅 2025-03-05
 * rabbitmq-c：[RabbitMQ](http://www.rabbitmq.com/) 的客户端库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/alanxz/rabbitmq-c) ⭐ 1,863 | 🐛 115 | 🌐 C | 📅 2026-09-26
 * libucl：通用配置库解析器。[FreeBSD](http://directory.fsf.org/wiki?title=License:FreeBSD "License:FreeBSD")。[官网](https://github.com/vstakhov/libucl) ⭐ 1,743 | 🐛 120 | 🌐 C | 📅 2026-09-22
@@ -551,7 +551,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * CException：异常的 C 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/ThrowTheSwitch/CException) ⭐ 368 | 🐛 2 | 🌐 C | 📅 2026-08-24
 * libbson：BSON 实用库。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/mongodb/libbson) ⚠️ Archived
 * docopt.c：命令行选项解析器的 C 实现。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/docopt/docopt.c) ⭐ 320 | 🐛 18 | 🌐 Python | 📅 2024-05-14
-* hammer：二进制格式的解析器组合。[GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).[官网](https://github.com/abiggerhammer/hammer) ⭐ 292 | 🐛 6 | 🌐 C | 📅 2020-10-06
+* hammer：二进制格式的解析器组合。[GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).[官网](https://github.com/abiggerhammer/hammer) ⭐ 294 | 🐛 6 | 🌐 C | 📅 2020-10-06
 * jwHash：一个很快的哈希表实现。[Apache2.0](http://directory.fsf.org/wiki/License:Apache2.0)。[官网](https://github.com/watmough/jwHash) ⭐ 219 | 🐛 2 | 🌐 C | 📅 2020-09-30
 * huffandpuff：一个极小的哈夫曼编码器和解码器。公共领域。[官网](https://github.com/adamierymenko/huffandpuff) ⭐ 104 | 🐛 2 | 🌐 C | 📅 2013-06-14
 * ApeTagLibs：APEv2 标签的 C 库。[Expat](http://directory.fsf.org/wiki/License:Expat)。[官网](https://github.com/jeremyevans/ape_tag_libs/tree/master/c) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-09-20
@@ -609,4 +609,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

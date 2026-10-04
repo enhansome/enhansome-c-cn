@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "AbsInt",
             "repo": "CompCert",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "c",
               "compcert",
@@ -42,7 +42,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T09:04:46Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "jedisct1",
             "repo": "libsodium",
             "stars": 13972,
@@ -165,7 +165,7 @@
             "open_issues": 432,
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34773,
+            "stars": 34778,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
@@ -287,7 +287,7 @@
             "open_issues": 155,
             "owner": "ioquake",
             "repo": "ioq3",
-            "stars": 2834,
+            "stars": 2835,
             "topics": [
               "fps",
               "fps-engine",
@@ -363,11 +363,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T19:35:30Z",
-            "open_issues": 2968,
+            "last_commit": "2026-10-04T20:07:38Z",
+            "open_issues": 2969,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 14212,
+            "stars": 14224,
             "topics": [
               "c",
               "libretro",
@@ -392,7 +392,7 @@
             "open_issues": 69,
             "owner": "slembcke",
             "repo": "Chipmunk2D",
-            "stars": 2410,
+            "stars": 2412,
             "topics": [
               "2d",
               "2d-physics",
@@ -494,7 +494,7 @@
             "open_issues": 129,
             "owner": "fogleman",
             "repo": "Craft",
-            "stars": 11116,
+            "stars": 11117,
             "topics": [
               "c",
               "game",
@@ -550,7 +550,7 @@
             "open_issues": 36,
             "owner": "cacalabs",
             "repo": "libcaca",
-            "stars": 698,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:01.680Z"
@@ -667,7 +667,7 @@
                     "open_issues": 4,
                     "owner": "cesanta",
                     "repo": "mongoose",
-                    "stars": 13070,
+                    "stars": 13071,
                     "topics": [
                       "embedded",
                       "http",
@@ -724,7 +724,7 @@
                     "open_issues": 49,
                     "owner": "ithewei",
                     "repo": "libhv",
-                    "stars": 7555,
+                    "stars": 7557,
                     "topics": [
                       "curl",
                       "epoll",
@@ -782,8 +782,8 @@
                     "id": 6154315,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-06T20:39:00Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-04T20:02:23Z",
+                    "open_issues": 1,
                     "owner": "nanomsg",
                     "repo": "nanomsg",
                     "stars": 6299,
@@ -855,7 +855,7 @@
                     "open_issues": 299,
                     "owner": "aws",
                     "repo": "s2n-tls",
-                    "stars": 4768,
+                    "stars": 4769,
                     "topics": [
                       "c",
                       "c99",
@@ -1211,7 +1211,7 @@
                     "open_issues": 26,
                     "owner": "clibs",
                     "repo": "clib",
-                    "stars": 5145,
+                    "stars": 5146,
                     "topics": [
                       "c",
                       "clib",
@@ -1258,7 +1258,7 @@
                     "open_issues": 26,
                     "owner": "clibs",
                     "repo": "clib",
-                    "stars": 5145,
+                    "stars": 5146,
                     "topics": [
                       "c",
                       "clib",
@@ -1535,11 +1535,11 @@
                 "id": 6201092,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T01:17:47Z",
-                "open_issues": 1178,
+                "last_commit": "2026-10-04T17:23:18Z",
+                "open_issues": 1177,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 37220,
+                "stars": 37237,
                 "topics": [
                   "audio",
                   "c",
@@ -1568,7 +1568,7 @@
                 "open_issues": 549,
                 "owner": "google",
                 "repo": "sanitizers",
-                "stars": 12492,
+                "stars": 12494,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
@@ -1585,8 +1585,8 @@
                 "id": 37440338,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T20:14:52Z",
-                "open_issues": 226,
+                "last_commit": "2026-10-04T18:14:56Z",
+                "open_issues": 224,
                 "owner": "include-what-you-use",
                 "repo": "include-what-you-use",
                 "stars": 4773,
@@ -1678,11 +1678,11 @@
                 "id": 6201092,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T01:17:47Z",
-                "open_issues": 1178,
+                "last_commit": "2026-10-04T17:23:18Z",
+                "open_issues": 1177,
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 37220,
+                "stars": 37237,
                 "topics": [
                   "audio",
                   "c",
@@ -1708,10 +1708,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-01T13:11:03Z",
-                "open_issues": 242,
+                "open_issues": 246,
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27223,
+                "stars": 27225,
                 "topics": [
                   "asynchronous",
                   "deep-io",
@@ -1738,7 +1738,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-15T12:37:11Z",
-                "open_issues": 562,
+                "open_issues": 563,
                 "owner": "libgit2",
                 "repo": "libgit2",
                 "stars": 10617,
@@ -1769,7 +1769,7 @@
                 "open_issues": 109,
                 "owner": "gperftools",
                 "repo": "gperftools",
-                "stars": 8977,
+                "stars": 8978,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 848,
                 "owner": "libimobiledevice",
                 "repo": "libimobiledevice",
-                "stars": 8228,
+                "stars": 8229,
                 "topics": [
                   "c",
                   "ios",
@@ -1813,7 +1813,7 @@
                 "id": 912896,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T02:20:32Z",
+                "last_commit": "2026-10-04T18:50:40Z",
                 "open_issues": 80,
                 "owner": "liuliu",
                 "repo": "ccv",
@@ -1835,10 +1835,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T03:42:38Z",
-                "open_issues": 287,
+                "open_issues": 289,
                 "owner": "madler",
                 "repo": "zlib",
-                "stars": 7119,
+                "stars": 7122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
@@ -1859,7 +1859,7 @@
                 "open_issues": 132,
                 "owner": "commonmark",
                 "repo": "commonmark-spec",
-                "stars": 5149,
+                "stars": 5148,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:01.680Z"
@@ -2281,7 +2281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:49:30.263Z",
+    "last_updated": "2026-10-04T20:10:09.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。",
